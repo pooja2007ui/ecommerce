@@ -1,0 +1,1501 @@
+customer_id,customer_name,email,city,country,signup_date,customer_tier
+CUST_00001,Lucas Lee,lucas.lee1@example.com,Mumbai,India,2025-11-19,Bronze
+CUST_00002,Lucas Sharma,lucas.sharma2@example.com,Toronto,Canada,2026-04-15,Platinum
+CUST_00003,Noah Anderson,noah.anderson3@example.com,Chicago,USA,2025-09-10,Silver
+CUST_00004,Evelyn Lewis,evelyn.lewis4@example.com,London,UK,2026-08-22,Silver
+CUST_00005,Amelia Lee,amelia.lee5@example.com,Toronto,Canada,2026-01-06,Bronze
+CUST_00006,Mia Miller,mia.miller6@example.com,Berlin,Germany,2026-05-21,Bronze
+CUST_00007,Liam Johnson,liam.johnson7@example.com,Bangalore,India,2025-04-23,Bronze
+CUST_00008,Noah Wilson,noah.wilson8@example.com,Melbourne,Australia,2026-03-09,Gold
+CUST_00009,Priya Brown,priya.brown9@example.com,Toronto,Canada,2026-01-26,Silver
+CUST_00010,Priya Patel,priya.patel10@example.com,Berlin,Germany,2025-09-15,Silver
+CUST_00011,Evelyn Smith,evelyn.smith11@example.com,Paris,France,2025-04-28,Bronze
+CUST_00012,Evelyn Anderson,evelyn.anderson12@example.com,Melbourne,Australia,2025-12-15,Platinum
+CUST_00013,Olivia Thomas,olivia.thomas13@example.com,Toronto,Canada,2025-06-11,Gold
+CUST_00014,Daniel Smith,daniel.smith14@example.com,Sydney,Australia,2025-09-27,Bronze
+CUST_00015,Matthew Wilson,matthew.wilson15@example.com,Berlin,Germany,2025-04-19,Bronze
+CUST_00016,Sophia Clark,sophia.clark16@example.com,Munich,Germany,2025-07-23,Bronze
+CUST_00017,Noah White,noah.white17@example.com,Melbourne,Australia,2025-06-15,Bronze
+CUST_00018,Evelyn Clark,evelyn.clark18@example.com,Mumbai,India,2025-01-01,Silver
+CUST_00019,Priya Jackson,priya.jackson19@example.com,Vancouver,Canada,2025-01-20,Bronze
+CUST_00020,Olivia White,olivia.white20@example.com,Mumbai,India,2025-11-11,Bronze
+CUST_00021,Mia Johnson,mia.johnson21@example.com,Austin,USA,2026-08-04,Silver
+CUST_00022,Liam Brown,liam.brown22@example.com,Sydney,Australia,2026-05-13,Bronze
+CUST_00023,Liam Lewis,liam.lewis23@example.com,Melbourne,Australia,2025-05-09,Bronze
+CUST_00024,Noah Sharma,noah.sharma24@example.com,Berlin,Germany,2025-06-19,Bronze
+CUST_00025,Oliver Clark,oliver.clark25@example.com,Bangalore,India,2026-03-10,Bronze
+CUST_00026,Lucas Lewis,lucas.lewis26@example.com,Melbourne,Australia,2025-07-25,Silver
+CUST_00027,Sophia Harris,sophia.harris27@example.com,Paris,France,2026-01-18,Bronze
+CUST_00028,Daniel Clark,daniel.clark28@example.com,Vancouver,Canada,2025-05-04,Silver
+CUST_00029,Mia Martinez,mia.martinez29@example.com,San Francisco,USA,2025-12-13,Silver
+CUST_00030,James Lee,james.lee30@example.com,Berlin,Germany,2025-08-24,Bronze
+CUST_00031,Aarav Martinez,aarav.martinez31@example.com,New York,USA,2025-03-14,Silver
+CUST_00032,Emma Martinez,emma.martinez32@example.com,San Francisco,USA,2025-02-02,Bronze
+CUST_00033,Alexander Brown,alexander.brown33@example.com,Berlin,Germany,2025-09-01,Bronze
+CUST_00034,Oliver Sharma,oliver.sharma34@example.com,Austin,USA,2026-07-07,Gold
+CUST_00035,Noah Lee,noah.lee35@example.com,Munich,Germany,2026-04-30,Platinum
+CUST_00036,Mia Sharma,mia.sharma36@example.com,Melbourne,Australia,2026-02-21,Gold
+CUST_00037,Lucas Taylor,lucas.taylor37@example.com,San Francisco,USA,2026-03-18,Bronze
+CUST_00038,Charlotte Martin,charlotte.martin38@example.com,Toronto,Canada,2026-04-24,Bronze
+CUST_00039,Emma Taylor,emma.taylor39@example.com,New York,USA,2026-02-17,Silver
+CUST_00040,Alexander Taylor,alexander.taylor40@example.com,Austin,USA,2025-07-16,Bronze
+CUST_00041,Lucas Lewis,lucas.lewis41@example.com,Vancouver,Canada,2025-05-24,Bronze
+CUST_00042,Amelia Wilson,amelia.wilson42@example.com,London,UK,2026-04-19,Bronze
+CUST_00043,Mia Brown,mia.brown43@example.com,Vancouver,Canada,2026-07-18,Bronze
+CUST_00044,Olivia Johnson,olivia.johnson44@example.com,Paris,France,2026-07-08,Gold
+CUST_00045,James Brown,james.brown45@example.com,Mumbai,India,2025-08-31,Bronze
+CUST_00046,Ava Martin,ava.martin46@example.com,Vancouver,Canada,2026-05-08,Silver
+CUST_00047,Lucas Harris,lucas.harris47@example.com,Mumbai,India,2025-03-02,Bronze
+CUST_00048,Ava Harris,ava.harris48@example.com,New York,USA,2026-02-04,Silver
+CUST_00049,Oliver Patel,oliver.patel49@example.com,London,UK,2026-03-10,Silver
+CUST_00050,Evelyn Sharma,evelyn.sharma50@example.com,Chicago,USA,2025-07-14,Bronze
+CUST_00051,Sophia Davis,sophia.davis51@example.com,New York,USA,2026-08-17,Platinum
+CUST_00052,Evelyn Johnson,evelyn.johnson52@example.com,Sydney,Australia,2025-11-18,Silver
+CUST_00053,Emma Johnson,emma.johnson53@example.com,Munich,Germany,2026-05-04,Gold
+CUST_00054,Matthew Clark,matthew.clark54@example.com,Chicago,USA,2025-02-28,Gold
+CUST_00055,Matthew Brown,matthew.brown55@example.com,Bangalore,India,2025-07-10,Silver
+CUST_00056,Liam Walker,liam.walker56@example.com,San Francisco,USA,2025-08-29,Gold
+CUST_00057,Ethan Taylor,ethan.taylor57@example.com,Mumbai,India,2026-08-07,Bronze
+CUST_00058,Mia Lee,mia.lee58@example.com,Munich,Germany,2025-02-10,Bronze
+CUST_00059,Priya Brown,priya.brown59@example.com,Toronto,Canada,2026-08-21,Bronze
+CUST_00060,Aarav Clark,aarav.clark60@example.com,Manchester,UK,2025-09-25,Bronze
+CUST_00061,Lucas Jackson,lucas.jackson61@example.com,Austin,USA,2025-09-29,Bronze
+CUST_00062,Ethan Miller,ethan.miller62@example.com,Paris,France,2025-11-04,Bronze
+CUST_00063,Daniel Jackson,daniel.jackson63@example.com,Mumbai,India,2025-03-16,Gold
+CUST_00064,James Patel,james.patel64@example.com,Munich,Germany,2026-07-31,Bronze
+CUST_00065,Olivia Brown,olivia.brown65@example.com,Berlin,Germany,2025-08-07,Bronze
+CUST_00066,Matthew Anderson,matthew.anderson66@example.com,Chicago,USA,2025-12-24,Silver
+CUST_00067,Liam Martinez,liam.martinez67@example.com,Manchester,UK,2025-10-19,Bronze
+CUST_00068,Ava Patel,ava.patel68@example.com,Bangalore,India,2026-07-11,Gold
+CUST_00069,Sophia Walker,sophia.walker69@example.com,Melbourne,Australia,2026-06-26,Bronze
+CUST_00070,James Lewis,james.lewis70@example.com,London,UK,2025-04-17,Platinum
+CUST_00071,Noah Anderson,noah.anderson71@example.com,San Francisco,USA,2025-04-20,Silver
+CUST_00072,Evelyn Miller,evelyn.miller72@example.com,London,UK,2025-10-16,Bronze
+CUST_00073,Priya Davis,priya.davis73@example.com,Sydney,Australia,2025-12-18,Bronze
+CUST_00074,Lucas Anderson,lucas.anderson74@example.com,Berlin,Germany,2026-05-16,Gold
+CUST_00075,Oliver Johnson,oliver.johnson75@example.com,San Francisco,USA,2026-03-10,Silver
+CUST_00076,Oliver Johnson,oliver.johnson76@example.com,New York,USA,2025-12-08,Silver
+CUST_00077,Noah Anderson,noah.anderson77@example.com,Chicago,USA,2026-03-29,Silver
+CUST_00078,Evelyn Martin,evelyn.martin78@example.com,Berlin,Germany,2025-01-10,Bronze
+CUST_00079,Olivia Brown,olivia.brown79@example.com,Mumbai,India,2025-06-02,Bronze
+CUST_00080,Evelyn Johnson,evelyn.johnson80@example.com,Bangalore,India,2026-01-14,Bronze
+CUST_00081,Aarav Lewis,aarav.lewis81@example.com,Chicago,USA,2026-03-17,Gold
+CUST_00082,Noah Johnson,noah.johnson82@example.com,London,UK,2026-01-09,Silver
+CUST_00083,Emma White,emma.white83@example.com,Austin,USA,2025-09-13,Bronze
+CUST_00084,Olivia White,olivia.white84@example.com,Melbourne,Australia,2026-07-28,Bronze
+CUST_00085,Amelia Walker,amelia.walker85@example.com,Sydney,Australia,2025-06-08,Bronze
+CUST_00086,Mia Wilson,mia.wilson86@example.com,Melbourne,Australia,2025-07-01,Bronze
+CUST_00087,Amelia Smith,amelia.smith87@example.com,Chicago,USA,2025-12-07,Silver
+CUST_00088,Amelia Martinez,amelia.martinez88@example.com,London,UK,2025-06-13,Silver
+CUST_00089,Olivia Harris,olivia.harris89@example.com,Bangalore,India,2025-02-09,Gold
+CUST_00090,Harper Martinez,harper.martinez90@example.com,Austin,USA,2026-04-17,Bronze
+CUST_00091,Charlotte Thomas,charlotte.thomas91@example.com,Bangalore,India,2025-08-22,Bronze
+CUST_00092,Mia Smith,mia.smith92@example.com,Paris,France,2025-07-17,Silver
+CUST_00093,Ethan Jackson,ethan.jackson93@example.com,London,UK,2025-03-13,Silver
+CUST_00094,Oliver White,oliver.white94@example.com,Paris,France,2026-06-06,Silver
+CUST_00095,Ethan Lewis,ethan.lewis95@example.com,Manchester,UK,2025-01-29,Silver
+CUST_00096,Olivia Anderson,olivia.anderson96@example.com,Chicago,USA,2026-08-18,Bronze
+CUST_00097,Oliver Johnson,oliver.johnson97@example.com,San Francisco,USA,2026-03-21,Silver
+CUST_00098,Charlotte Jackson,charlotte.jackson98@example.com,Toronto,Canada,2026-06-08,Bronze
+CUST_00099,Olivia Harris,olivia.harris99@example.com,Mumbai,India,2026-08-14,Bronze
+CUST_00100,Lucas Anderson,lucas.anderson100@example.com,New York,USA,2026-03-23,Bronze
+CUST_00101,James Clark,james.clark101@example.com,Mumbai,India,2026-07-06,Bronze
+CUST_00102,Lucas White,lucas.white102@example.com,Toronto,Canada,2025-03-13,Silver
+CUST_00103,Alexander Walker,alexander.walker103@example.com,Manchester,UK,2025-05-08,Bronze
+CUST_00104,Sophia Clark,sophia.clark104@example.com,London,UK,2026-02-23,Silver
+CUST_00105,Alexander Harris,alexander.harris105@example.com,Sydney,Australia,2025-10-30,Gold
+CUST_00106,Evelyn Miller,evelyn.miller106@example.com,Austin,USA,2026-03-07,Bronze
+CUST_00107,Ethan Wilson,ethan.wilson107@example.com,Munich,Germany,2026-08-06,Bronze
+CUST_00108,Sophia Harris,sophia.harris108@example.com,Berlin,Germany,2025-01-01,Silver
+CUST_00109,Sophia Thomas,sophia.thomas109@example.com,Austin,USA,2026-03-17,Bronze
+CUST_00110,Aarav Walker,aarav.walker110@example.com,Paris,France,2025-11-26,Bronze
+CUST_00111,Daniel Patel,daniel.patel111@example.com,Vancouver,Canada,2025-08-07,Bronze
+CUST_00112,Matthew Sharma,matthew.sharma112@example.com,Melbourne,Australia,2025-06-23,Bronze
+CUST_00113,Liam Thomas,liam.thomas113@example.com,Berlin,Germany,2025-12-10,Gold
+CUST_00114,Liam Martinez,liam.martinez114@example.com,Paris,France,2025-11-14,Gold
+CUST_00115,Mia Davis,mia.davis115@example.com,Chicago,USA,2025-01-26,Silver
+CUST_00116,Emma Martinez,emma.martinez116@example.com,Vancouver,Canada,2025-03-16,Gold
+CUST_00117,Daniel Martin,daniel.martin117@example.com,Mumbai,India,2026-08-13,Gold
+CUST_00118,Lucas Harris,lucas.harris118@example.com,Vancouver,Canada,2026-02-14,Bronze
+CUST_00119,Mia Miller,mia.miller119@example.com,Paris,France,2025-01-06,Gold
+CUST_00120,Olivia Martin,olivia.martin120@example.com,Austin,USA,2025-06-30,Silver
+CUST_00121,Matthew Patel,matthew.patel121@example.com,New York,USA,2026-07-25,Gold
+CUST_00122,Mia Taylor,mia.taylor122@example.com,Vancouver,Canada,2025-05-17,Gold
+CUST_00123,Daniel Clark,daniel.clark123@example.com,Berlin,Germany,2025-11-21,Bronze
+CUST_00124,Daniel Walker,daniel.walker124@example.com,Bangalore,India,2026-06-01,Bronze
+CUST_00125,Amelia Lewis,amelia.lewis125@example.com,Vancouver,Canada,2025-06-12,Bronze
+CUST_00126,Harper Patel,harper.patel126@example.com,London,UK,2025-09-11,Bronze
+CUST_00127,Oliver Clark,oliver.clark127@example.com,Vancouver,Canada,2025-09-02,Gold
+CUST_00128,Oliver Patel,oliver.patel128@example.com,San Francisco,USA,2025-10-20,Gold
+CUST_00129,Mia Anderson,mia.anderson129@example.com,Manchester,UK,2025-11-24,Bronze
+CUST_00130,Evelyn Brown,evelyn.brown130@example.com,Chicago,USA,2025-06-04,Silver
+CUST_00131,Mia Harris,mia.harris131@example.com,Sydney,Australia,2025-06-06,Bronze
+CUST_00132,Lucas Brown,lucas.brown132@example.com,Toronto,Canada,2026-02-22,Bronze
+CUST_00133,Alexander Lewis,alexander.lewis133@example.com,Vancouver,Canada,2026-03-02,Bronze
+CUST_00134,Emma Davis,emma.davis134@example.com,Bangalore,India,2026-03-07,Bronze
+CUST_00135,Ethan Lee,ethan.lee135@example.com,Sydney,Australia,2025-01-21,Gold
+CUST_00136,Aarav Harris,aarav.harris136@example.com,Vancouver,Canada,2025-01-07,Bronze
+CUST_00137,Charlotte Thomas,charlotte.thomas137@example.com,Melbourne,Australia,2026-02-04,Silver
+CUST_00138,Amelia Lewis,amelia.lewis138@example.com,Sydney,Australia,2026-07-14,Silver
+CUST_00139,Priya Martinez,priya.martinez139@example.com,Vancouver,Canada,2025-08-13,Bronze
+CUST_00140,Oliver Martin,oliver.martin140@example.com,Vancouver,Canada,2025-01-30,Platinum
+CUST_00141,Ethan Jackson,ethan.jackson141@example.com,Paris,France,2026-02-19,Platinum
+CUST_00142,Ava Patel,ava.patel142@example.com,Mumbai,India,2025-05-11,Bronze
+CUST_00143,Priya Lewis,priya.lewis143@example.com,New York,USA,2026-02-08,Bronze
+CUST_00144,Aarav Lee,aarav.lee144@example.com,Paris,France,2025-01-28,Bronze
+CUST_00145,Liam Martin,liam.martin145@example.com,Chicago,USA,2026-04-18,Bronze
+CUST_00146,Ava Johnson,ava.johnson146@example.com,London,UK,2026-01-24,Bronze
+CUST_00147,Alexander Davis,alexander.davis147@example.com,Vancouver,Canada,2025-12-01,Silver
+CUST_00148,Alexander Harris,alexander.harris148@example.com,London,UK,2026-03-08,Silver
+CUST_00149,Oliver Brown,oliver.brown149@example.com,Vancouver,Canada,2025-01-20,Bronze
+CUST_00150,Evelyn Johnson,evelyn.johnson150@example.com,Manchester,UK,2025-08-18,Bronze
+CUST_00151,Liam Johnson,liam.johnson151@example.com,Melbourne,Australia,2025-02-01,Gold
+CUST_00152,Mia Davis,mia.davis152@example.com,Bangalore,India,2025-01-21,Bronze
+CUST_00153,Priya Miller,priya.miller153@example.com,Austin,USA,2025-05-10,Bronze
+CUST_00154,Harper Taylor,harper.taylor154@example.com,Munich,Germany,2025-08-12,Bronze
+CUST_00155,Daniel Anderson,daniel.anderson155@example.com,Melbourne,Australia,2026-01-13,Platinum
+CUST_00156,Ava Walker,ava.walker156@example.com,Munich,Germany,2025-04-28,Bronze
+CUST_00157,Ava Thomas,ava.thomas157@example.com,San Francisco,USA,2026-08-16,Silver
+CUST_00158,James Thomas,james.thomas158@example.com,Munich,Germany,2026-01-20,Silver
+CUST_00159,Ethan Davis,ethan.davis159@example.com,San Francisco,USA,2026-08-30,Bronze
+CUST_00160,Mia Taylor,mia.taylor160@example.com,Sydney,Australia,2025-11-05,Silver
+CUST_00161,Priya Taylor,priya.taylor161@example.com,Melbourne,Australia,2026-08-03,Bronze
+CUST_00162,Emma White,emma.white162@example.com,Berlin,Germany,2026-03-15,Silver
+CUST_00163,Charlotte Brown,charlotte.brown163@example.com,Berlin,Germany,2025-12-16,Silver
+CUST_00164,James Martin,james.martin164@example.com,Bangalore,India,2026-05-17,Silver
+CUST_00165,Olivia Martin,olivia.martin165@example.com,Manchester,UK,2026-04-16,Bronze
+CUST_00166,Noah Martin,noah.martin166@example.com,Chicago,USA,2026-06-19,Gold
+CUST_00167,Oliver Walker,oliver.walker167@example.com,Melbourne,Australia,2026-07-06,Bronze
+CUST_00168,Harper Patel,harper.patel168@example.com,Toronto,Canada,2026-08-30,Bronze
+CUST_00169,Oliver Jackson,oliver.jackson169@example.com,Bangalore,India,2025-09-09,Bronze
+CUST_00170,Liam Anderson,liam.anderson170@example.com,Mumbai,India,2026-04-07,Silver
+CUST_00171,Mia Patel,mia.patel171@example.com,Munich,Germany,2026-01-24,Silver
+CUST_00172,Alexander Smith,alexander.smith172@example.com,Vancouver,Canada,2025-11-29,Bronze
+CUST_00173,Ava Sharma,ava.sharma173@example.com,Austin,USA,2025-12-30,Silver
+CUST_00174,Oliver Jackson,oliver.jackson174@example.com,London,UK,2025-10-10,Bronze
+CUST_00175,Evelyn Smith,evelyn.smith175@example.com,Berlin,Germany,2025-07-15,Silver
+CUST_00176,Liam Martinez,liam.martinez176@example.com,Sydney,Australia,2026-02-21,Bronze
+CUST_00177,Harper Lewis,harper.lewis177@example.com,Melbourne,Australia,2025-09-04,Silver
+CUST_00178,Harper Sharma,harper.sharma178@example.com,Vancouver,Canada,2025-01-18,Bronze
+CUST_00179,Liam Thomas,liam.thomas179@example.com,Austin,USA,2026-02-19,Gold
+CUST_00180,Mia Thomas,mia.thomas180@example.com,Paris,France,2026-08-19,Bronze
+CUST_00181,Charlotte Sharma,charlotte.sharma181@example.com,Berlin,Germany,2026-06-28,Bronze
+CUST_00182,Charlotte Martin,charlotte.martin182@example.com,Sydney,Australia,2026-07-18,Bronze
+CUST_00183,Alexander White,alexander.white183@example.com,Sydney,Australia,2026-04-10,Gold
+CUST_00184,Oliver Thomas,oliver.thomas184@example.com,London,UK,2025-08-25,Gold
+CUST_00185,Olivia Davis,olivia.davis185@example.com,Manchester,UK,2025-05-03,Bronze
+CUST_00186,Evelyn Wilson,evelyn.wilson186@example.com,Austin,USA,2025-08-10,Silver
+CUST_00187,Harper Anderson,harper.anderson187@example.com,Sydney,Australia,2026-08-27,Gold
+CUST_00188,Matthew Walker,matthew.walker188@example.com,London,UK,2025-04-13,Silver
+CUST_00189,Lucas Thomas,lucas.thomas189@example.com,Austin,USA,2026-01-05,Silver
+CUST_00190,Ava Thomas,ava.thomas190@example.com,New York,USA,2026-07-01,Bronze
+CUST_00191,Noah Anderson,noah.anderson191@example.com,New York,USA,2025-02-25,Bronze
+CUST_00192,Evelyn Thomas,evelyn.thomas192@example.com,Sydney,Australia,2025-05-10,Gold
+CUST_00193,Harper Taylor,harper.taylor193@example.com,Bangalore,India,2025-01-13,Gold
+CUST_00194,Aarav Thomas,aarav.thomas194@example.com,Vancouver,Canada,2026-05-06,Silver
+CUST_00195,Daniel Jackson,daniel.jackson195@example.com,Chicago,USA,2025-02-22,Bronze
+CUST_00196,Oliver Sharma,oliver.sharma196@example.com,San Francisco,USA,2025-03-08,Bronze
+CUST_00197,Ethan Sharma,ethan.sharma197@example.com,San Francisco,USA,2026-08-14,Silver
+CUST_00198,Emma Miller,emma.miller198@example.com,Chicago,USA,2026-07-31,Gold
+CUST_00199,Sophia Brown,sophia.brown199@example.com,Austin,USA,2025-05-02,Gold
+CUST_00200,Evelyn Martin,evelyn.martin200@example.com,Munich,Germany,2025-08-20,Silver
+CUST_00201,Matthew Harris,matthew.harris201@example.com,Vancouver,Canada,2026-03-30,Silver
+CUST_00202,Sophia Lee,sophia.lee202@example.com,Toronto,Canada,2025-11-09,Bronze
+CUST_00203,Aarav Walker,aarav.walker203@example.com,New York,USA,2025-04-12,Bronze
+CUST_00204,Lucas Davis,lucas.davis204@example.com,London,UK,2025-03-25,Gold
+CUST_00205,Ava Martinez,ava.martinez205@example.com,Chicago,USA,2026-07-20,Silver
+CUST_00206,Liam Wilson,liam.wilson206@example.com,New York,USA,2026-02-23,Bronze
+CUST_00207,Daniel Walker,daniel.walker207@example.com,Vancouver,Canada,2025-10-26,Bronze
+CUST_00208,Emma Martinez,emma.martinez208@example.com,London,UK,2025-10-17,Silver
+CUST_00209,Daniel Brown,daniel.brown209@example.com,Paris,France,2025-08-28,Bronze
+CUST_00210,Oliver Lee,oliver.lee210@example.com,Paris,France,2025-07-22,Bronze
+CUST_00211,Amelia Taylor,amelia.taylor211@example.com,Berlin,Germany,2025-08-19,Silver
+CUST_00212,Noah Anderson,noah.anderson212@example.com,Bangalore,India,2025-05-26,Silver
+CUST_00213,Liam Johnson,liam.johnson213@example.com,Chicago,USA,2025-11-11,Silver
+CUST_00214,Priya Lee,priya.lee214@example.com,Mumbai,India,2025-10-23,Bronze
+CUST_00215,Daniel Taylor,daniel.taylor215@example.com,Vancouver,Canada,2025-11-08,Silver
+CUST_00216,Ethan Anderson,ethan.anderson216@example.com,Berlin,Germany,2026-07-07,Bronze
+CUST_00217,Harper Patel,harper.patel217@example.com,San Francisco,USA,2025-02-10,Bronze
+CUST_00218,Amelia Jackson,amelia.jackson218@example.com,Munich,Germany,2025-09-14,Silver
+CUST_00219,James Brown,james.brown219@example.com,Austin,USA,2026-08-13,Silver
+CUST_00220,Aarav Smith,aarav.smith220@example.com,Melbourne,Australia,2025-10-03,Gold
+CUST_00221,Aarav Johnson,aarav.johnson221@example.com,Melbourne,Australia,2025-06-29,Silver
+CUST_00222,Harper Clark,harper.clark222@example.com,Paris,France,2026-03-29,Silver
+CUST_00223,Oliver Wilson,oliver.wilson223@example.com,Munich,Germany,2026-03-23,Bronze
+CUST_00224,Harper Brown,harper.brown224@example.com,Vancouver,Canada,2025-12-23,Bronze
+CUST_00225,Amelia Jackson,amelia.jackson225@example.com,Manchester,UK,2025-04-18,Bronze
+CUST_00226,Ava Jackson,ava.jackson226@example.com,Toronto,Canada,2026-05-23,Bronze
+CUST_00227,Sophia Harris,sophia.harris227@example.com,Bangalore,India,2026-07-18,Platinum
+CUST_00228,Emma Patel,emma.patel228@example.com,San Francisco,USA,2025-11-19,Bronze
+CUST_00229,Oliver Jackson,oliver.jackson229@example.com,San Francisco,USA,2026-02-18,Gold
+CUST_00230,Matthew Smith,matthew.smith230@example.com,Paris,France,2026-07-10,Silver
+CUST_00231,Daniel Martin,daniel.martin231@example.com,New York,USA,2025-07-12,Silver
+CUST_00232,Matthew White,matthew.white232@example.com,Munich,Germany,2026-05-26,Silver
+CUST_00233,Daniel Johnson,daniel.johnson233@example.com,Austin,USA,2025-10-01,Silver
+CUST_00234,Evelyn Miller,evelyn.miller234@example.com,Mumbai,India,2025-10-22,Bronze
+CUST_00235,Daniel Sharma,daniel.sharma235@example.com,San Francisco,USA,2025-01-30,Bronze
+CUST_00236,Priya Martinez,priya.martinez236@example.com,Sydney,Australia,2025-06-12,Silver
+CUST_00237,Sophia Lewis,sophia.lewis237@example.com,New York,USA,2026-07-20,Bronze
+CUST_00238,Amelia Brown,amelia.brown238@example.com,Austin,USA,2025-04-27,Bronze
+CUST_00239,Daniel Taylor,daniel.taylor239@example.com,Paris,France,2025-06-07,Silver
+CUST_00240,Harper Thomas,harper.thomas240@example.com,Berlin,Germany,2025-10-07,Bronze
+CUST_00241,Amelia Sharma,amelia.sharma241@example.com,Vancouver,Canada,2025-09-07,Gold
+CUST_00242,Daniel Lewis,daniel.lewis242@example.com,Chicago,USA,2026-01-28,Platinum
+CUST_00243,Lucas Walker,lucas.walker243@example.com,Berlin,Germany,2025-05-20,Gold
+CUST_00244,Liam Anderson,liam.anderson244@example.com,Melbourne,Australia,2026-03-01,Bronze
+CUST_00245,Alexander Clark,alexander.clark245@example.com,London,UK,2025-01-03,Bronze
+CUST_00246,Sophia Thomas,sophia.thomas246@example.com,Bangalore,India,2026-08-25,Gold
+CUST_00247,Aarav Sharma,aarav.sharma247@example.com,Bangalore,India,2025-06-02,Bronze
+CUST_00248,Daniel Lewis,daniel.lewis248@example.com,Vancouver,Canada,2025-12-20,Platinum
+CUST_00249,Alexander Lewis,alexander.lewis249@example.com,Melbourne,Australia,2026-07-11,Platinum
+CUST_00250,Ethan Patel,ethan.patel250@example.com,Mumbai,India,2025-11-26,Gold
+CUST_00251,Lucas Martinez,lucas.martinez251@example.com,Munich,Germany,2026-01-28,Bronze
+CUST_00252,Mia Martin,mia.martin252@example.com,New York,USA,2025-11-22,Bronze
+CUST_00253,Harper Harris,harper.harris253@example.com,Toronto,Canada,2025-06-05,Gold
+CUST_00254,Harper Johnson,harper.johnson254@example.com,Chicago,USA,2026-05-30,Bronze
+CUST_00255,Aarav Jackson,aarav.jackson255@example.com,Bangalore,India,2025-04-13,Bronze
+CUST_00256,Daniel Taylor,daniel.taylor256@example.com,Berlin,Germany,2026-04-13,Silver
+CUST_00257,James Miller,james.miller257@example.com,Toronto,Canada,2025-06-08,Gold
+CUST_00258,Liam Sharma,liam.sharma258@example.com,Melbourne,Australia,2025-09-29,Silver
+CUST_00259,Alexander Walker,alexander.walker259@example.com,Sydney,Australia,2026-02-12,Silver
+CUST_00260,Liam Jackson,liam.jackson260@example.com,Bangalore,India,2026-07-01,Bronze
+CUST_00261,Ethan Jackson,ethan.jackson261@example.com,Paris,France,2026-05-15,Silver
+CUST_00262,Evelyn Johnson,evelyn.johnson262@example.com,Munich,Germany,2025-03-12,Platinum
+CUST_00263,Mia Thomas,mia.thomas263@example.com,Austin,USA,2025-04-03,Bronze
+CUST_00264,Amelia Taylor,amelia.taylor264@example.com,Melbourne,Australia,2025-04-13,Silver
+CUST_00265,Daniel Wilson,daniel.wilson265@example.com,Sydney,Australia,2025-11-03,Gold
+CUST_00266,James Johnson,james.johnson266@example.com,Manchester,UK,2025-02-27,Silver
+CUST_00267,Sophia White,sophia.white267@example.com,Manchester,UK,2026-03-18,Silver
+CUST_00268,Noah Martinez,noah.martinez268@example.com,Berlin,Germany,2026-02-26,Silver
+CUST_00269,Aarav Wilson,aarav.wilson269@example.com,Chicago,USA,2025-06-29,Bronze
+CUST_00270,Liam Walker,liam.walker270@example.com,Bangalore,India,2026-01-27,Bronze
+CUST_00271,Priya Martinez,priya.martinez271@example.com,Vancouver,Canada,2026-08-21,Gold
+CUST_00272,Noah Martinez,noah.martinez272@example.com,Vancouver,Canada,2025-09-18,Gold
+CUST_00273,Daniel Anderson,daniel.anderson273@example.com,Paris,France,2025-01-10,Gold
+CUST_00274,Daniel Thomas,daniel.thomas274@example.com,Paris,France,2026-07-14,Gold
+CUST_00275,Ava Brown,ava.brown275@example.com,Vancouver,Canada,2025-12-20,Silver
+CUST_00276,Aarav Thomas,aarav.thomas276@example.com,Paris,France,2026-03-11,Silver
+CUST_00277,Oliver Patel,oliver.patel277@example.com,Bangalore,India,2025-11-06,Silver
+CUST_00278,Lucas Harris,lucas.harris278@example.com,Bangalore,India,2026-05-10,Silver
+CUST_00279,Olivia Martinez,olivia.martinez279@example.com,Toronto,Canada,2026-08-09,Silver
+CUST_00280,Charlotte Lee,charlotte.lee280@example.com,London,UK,2025-10-30,Silver
+CUST_00281,James Harris,james.harris281@example.com,London,UK,2025-01-09,Gold
+CUST_00282,Aarav Johnson,aarav.johnson282@example.com,Mumbai,India,2026-05-24,Bronze
+CUST_00283,Sophia Martinez,sophia.martinez283@example.com,Munich,Germany,2025-12-27,Bronze
+CUST_00284,Mia Davis,mia.davis284@example.com,Munich,Germany,2025-09-14,Bronze
+CUST_00285,Noah Taylor,noah.taylor285@example.com,Mumbai,India,2025-02-10,Silver
+CUST_00286,Sophia Patel,sophia.patel286@example.com,New York,USA,2026-08-17,Bronze
+CUST_00287,Charlotte Miller,charlotte.miller287@example.com,San Francisco,USA,2025-10-30,Bronze
+CUST_00288,Alexander Martin,alexander.martin288@example.com,Chicago,USA,2025-07-25,Silver
+CUST_00289,Noah Lewis,noah.lewis289@example.com,Mumbai,India,2026-01-10,Bronze
+CUST_00290,Matthew Clark,matthew.clark290@example.com,Mumbai,India,2025-10-07,Silver
+CUST_00291,Ava Anderson,ava.anderson291@example.com,Mumbai,India,2026-05-09,Bronze
+CUST_00292,Sophia Jackson,sophia.jackson292@example.com,Melbourne,Australia,2025-04-28,Bronze
+CUST_00293,Daniel Brown,daniel.brown293@example.com,Chicago,USA,2025-08-20,Gold
+CUST_00294,Ethan Lewis,ethan.lewis294@example.com,Manchester,UK,2025-04-03,Bronze
+CUST_00295,Ethan Smith,ethan.smith295@example.com,London,UK,2026-07-04,Bronze
+CUST_00296,Olivia Patel,olivia.patel296@example.com,Manchester,UK,2025-09-26,Silver
+CUST_00297,Aarav Harris,aarav.harris297@example.com,Bangalore,India,2026-01-16,Silver
+CUST_00298,Olivia Martinez,olivia.martinez298@example.com,Vancouver,Canada,2025-01-26,Bronze
+CUST_00299,Priya Lewis,priya.lewis299@example.com,Manchester,UK,2025-08-15,Silver
+CUST_00300,Liam Patel,liam.patel300@example.com,Mumbai,India,2025-11-06,Bronze
+CUST_00301,Amelia Taylor,amelia.taylor301@example.com,Chicago,USA,2025-02-16,Bronze
+CUST_00302,Emma Thomas,emma.thomas302@example.com,Vancouver,Canada,2025-04-29,Silver
+CUST_00303,Olivia Martinez,olivia.martinez303@example.com,Mumbai,India,2026-07-05,Silver
+CUST_00304,Noah Harris,noah.harris304@example.com,Vancouver,Canada,2026-01-15,Silver
+CUST_00305,Evelyn Martin,evelyn.martin305@example.com,Munich,Germany,2025-06-08,Silver
+CUST_00306,Amelia Taylor,amelia.taylor306@example.com,Bangalore,India,2026-05-17,Platinum
+CUST_00307,Priya Martin,priya.martin307@example.com,London,UK,2025-02-03,Silver
+CUST_00308,Charlotte Davis,charlotte.davis308@example.com,Vancouver,Canada,2026-04-01,Bronze
+CUST_00309,Mia White,mia.white309@example.com,San Francisco,USA,2026-01-12,Silver
+CUST_00310,Evelyn White,evelyn.white310@example.com,New York,USA,2026-02-12,Bronze
+CUST_00311,Oliver Davis,oliver.davis311@example.com,San Francisco,USA,2026-04-11,Bronze
+CUST_00312,Liam Davis,liam.davis312@example.com,Paris,France,2025-01-22,Bronze
+CUST_00313,Emma Jackson,emma.jackson313@example.com,Austin,USA,2025-05-09,Bronze
+CUST_00314,Aarav Davis,aarav.davis314@example.com,San Francisco,USA,2026-07-22,Platinum
+CUST_00315,Lucas Lee,lucas.lee315@example.com,Austin,USA,2025-08-27,Gold
+CUST_00316,Alexander Miller,alexander.miller316@example.com,Melbourne,Australia,2025-01-03,Silver
+CUST_00317,Oliver Miller,oliver.miller317@example.com,Chicago,USA,2026-07-08,Bronze
+CUST_00318,Oliver Wilson,oliver.wilson318@example.com,San Francisco,USA,2025-01-27,Bronze
+CUST_00319,Noah Smith,noah.smith319@example.com,Manchester,UK,2025-09-01,Bronze
+CUST_00320,Aarav Jackson,aarav.jackson320@example.com,New York,USA,2025-06-28,Bronze
+CUST_00321,Oliver Johnson,oliver.johnson321@example.com,Chicago,USA,2026-03-08,Silver
+CUST_00322,Matthew Taylor,matthew.taylor322@example.com,Sydney,Australia,2025-03-07,Silver
+CUST_00323,Harper Patel,harper.patel323@example.com,Melbourne,Australia,2026-01-06,Silver
+CUST_00324,Matthew Lee,matthew.lee324@example.com,San Francisco,USA,2026-04-08,Bronze
+CUST_00325,Matthew Martinez,matthew.martinez325@example.com,Munich,Germany,2025-02-14,Platinum
+CUST_00326,Matthew Thomas,matthew.thomas326@example.com,Vancouver,Canada,2025-02-01,Silver
+CUST_00327,Emma Sharma,emma.sharma327@example.com,Bangalore,India,2026-02-16,Silver
+CUST_00328,Amelia Taylor,amelia.taylor328@example.com,Vancouver,Canada,2026-03-31,Silver
+CUST_00329,Liam Brown,liam.brown329@example.com,Manchester,UK,2025-06-01,Bronze
+CUST_00330,Liam Miller,liam.miller330@example.com,London,UK,2026-08-23,Bronze
+CUST_00331,Evelyn Jackson,evelyn.jackson331@example.com,Toronto,Canada,2026-06-28,Bronze
+CUST_00332,Sophia Patel,sophia.patel332@example.com,Berlin,Germany,2026-03-17,Silver
+CUST_00333,Olivia Taylor,olivia.taylor333@example.com,Bangalore,India,2026-07-19,Bronze
+CUST_00334,Lucas Martin,lucas.martin334@example.com,Vancouver,Canada,2025-08-22,Bronze
+CUST_00335,Amelia Jackson,amelia.jackson335@example.com,Bangalore,India,2026-04-10,Bronze
+CUST_00336,Ethan Martin,ethan.martin336@example.com,Sydney,Australia,2025-04-08,Bronze
+CUST_00337,Alexander Martin,alexander.martin337@example.com,Manchester,UK,2025-09-19,Gold
+CUST_00338,Charlotte Miller,charlotte.miller338@example.com,Paris,France,2026-05-01,Silver
+CUST_00339,Liam Brown,liam.brown339@example.com,Bangalore,India,2025-03-29,Bronze
+CUST_00340,Liam Martin,liam.martin340@example.com,San Francisco,USA,2026-01-17,Bronze
+CUST_00341,Noah Lewis,noah.lewis341@example.com,New York,USA,2026-08-24,Bronze
+CUST_00342,Evelyn Lewis,evelyn.lewis342@example.com,Manchester,UK,2025-05-06,Bronze
+CUST_00343,Amelia White,amelia.white343@example.com,Bangalore,India,2026-03-10,Bronze
+CUST_00344,Emma Thomas,emma.thomas344@example.com,Munich,Germany,2025-11-16,Bronze
+CUST_00345,Charlotte Taylor,charlotte.taylor345@example.com,Munich,Germany,2026-06-04,Bronze
+CUST_00346,Lucas Miller,lucas.miller346@example.com,Paris,France,2026-05-09,Silver
+CUST_00347,Mia Taylor,mia.taylor347@example.com,Manchester,UK,2026-07-24,Silver
+CUST_00348,Charlotte Taylor,charlotte.taylor348@example.com,Melbourne,Australia,2025-10-13,Bronze
+CUST_00349,Aarav Martinez,aarav.martinez349@example.com,Melbourne,Australia,2026-03-16,Bronze
+CUST_00350,Evelyn Walker,evelyn.walker350@example.com,Munich,Germany,2026-07-25,Silver
+CUST_00351,James Walker,james.walker351@example.com,Mumbai,India,2025-10-01,Silver
+CUST_00352,James Wilson,james.wilson352@example.com,London,UK,2025-11-13,Gold
+CUST_00353,Alexander White,alexander.white353@example.com,New York,USA,2025-07-05,Silver
+CUST_00354,Noah Lee,noah.lee354@example.com,Paris,France,2026-02-15,Bronze
+CUST_00355,Liam Miller,liam.miller355@example.com,Sydney,Australia,2025-02-01,Bronze
+CUST_00356,Liam Clark,liam.clark356@example.com,Austin,USA,2026-01-21,Silver
+CUST_00357,Amelia Patel,amelia.patel357@example.com,Manchester,UK,2025-06-11,Bronze
+CUST_00358,Charlotte Thomas,charlotte.thomas358@example.com,Sydney,Australia,2025-11-29,Silver
+CUST_00359,Aarav Walker,aarav.walker359@example.com,San Francisco,USA,2025-02-23,Gold
+CUST_00360,Noah Wilson,noah.wilson360@example.com,Melbourne,Australia,2025-02-20,Silver
+CUST_00361,Liam Anderson,liam.anderson361@example.com,Vancouver,Canada,2026-03-11,Bronze
+CUST_00362,Harper Walker,harper.walker362@example.com,Vancouver,Canada,2026-03-01,Silver
+CUST_00363,Oliver Davis,oliver.davis363@example.com,Melbourne,Australia,2026-06-09,Bronze
+CUST_00364,Olivia White,olivia.white364@example.com,Toronto,Canada,2025-04-24,Silver
+CUST_00365,Sophia Lee,sophia.lee365@example.com,Vancouver,Canada,2026-06-24,Gold
+CUST_00366,Sophia Johnson,sophia.johnson366@example.com,Austin,USA,2026-02-09,Bronze
+CUST_00367,Priya Johnson,priya.johnson367@example.com,New York,USA,2025-07-29,Platinum
+CUST_00368,Sophia Davis,sophia.davis368@example.com,Melbourne,Australia,2025-05-21,Gold
+CUST_00369,Oliver Thomas,oliver.thomas369@example.com,Manchester,UK,2025-05-03,Bronze
+CUST_00370,James Sharma,james.sharma370@example.com,Sydney,Australia,2026-03-17,Bronze
+CUST_00371,Ava Miller,ava.miller371@example.com,Toronto,Canada,2026-06-30,Bronze
+CUST_00372,Mia Clark,mia.clark372@example.com,Berlin,Germany,2025-12-29,Bronze
+CUST_00373,Liam Harris,liam.harris373@example.com,Bangalore,India,2025-02-13,Bronze
+CUST_00374,Amelia Smith,amelia.smith374@example.com,Vancouver,Canada,2025-03-21,Silver
+CUST_00375,Alexander Lee,alexander.lee375@example.com,Toronto,Canada,2026-08-11,Bronze
+CUST_00376,Ethan Martin,ethan.martin376@example.com,London,UK,2025-04-28,Bronze
+CUST_00377,Ethan Smith,ethan.smith377@example.com,Manchester,UK,2025-06-25,Gold
+CUST_00378,Priya Patel,priya.patel378@example.com,Bangalore,India,2026-01-06,Bronze
+CUST_00379,Liam Martin,liam.martin379@example.com,Bangalore,India,2025-04-19,Gold
+CUST_00380,Mia Martin,mia.martin380@example.com,Munich,Germany,2026-02-15,Bronze
+CUST_00381,Matthew Brown,matthew.brown381@example.com,Toronto,Canada,2025-11-14,Bronze
+CUST_00382,Alexander Martinez,alexander.martinez382@example.com,Manchester,UK,2025-06-22,Silver
+CUST_00383,Liam Clark,liam.clark383@example.com,Paris,France,2025-04-27,Silver
+CUST_00384,Matthew Clark,matthew.clark384@example.com,Austin,USA,2025-12-24,Gold
+CUST_00385,Charlotte Miller,charlotte.miller385@example.com,Austin,USA,2025-04-16,Silver
+CUST_00386,Noah Anderson,noah.anderson386@example.com,Austin,USA,2025-06-27,Gold
+CUST_00387,Priya Miller,priya.miller387@example.com,Melbourne,Australia,2025-03-19,Bronze
+CUST_00388,Ava Sharma,ava.sharma388@example.com,Vancouver,Canada,2026-08-01,Bronze
+CUST_00389,Aarav Patel,aarav.patel389@example.com,Paris,France,2026-08-02,Silver
+CUST_00390,Priya Jackson,priya.jackson390@example.com,Bangalore,India,2025-11-20,Gold
+CUST_00391,Noah Patel,noah.patel391@example.com,San Francisco,USA,2026-04-26,Platinum
+CUST_00392,Daniel Thomas,daniel.thomas392@example.com,Melbourne,Australia,2025-10-09,Bronze
+CUST_00393,Aarav Johnson,aarav.johnson393@example.com,Manchester,UK,2026-06-04,Bronze
+CUST_00394,Liam Thomas,liam.thomas394@example.com,Vancouver,Canada,2026-04-08,Silver
+CUST_00395,Emma Johnson,emma.johnson395@example.com,Manchester,UK,2025-10-21,Bronze
+CUST_00396,Liam Brown,liam.brown396@example.com,Munich,Germany,2026-09-01,Gold
+CUST_00397,Matthew Harris,matthew.harris397@example.com,Vancouver,Canada,2026-08-18,Gold
+CUST_00398,Evelyn Johnson,evelyn.johnson398@example.com,Vancouver,Canada,2026-08-09,Bronze
+CUST_00399,Lucas Jackson,lucas.jackson399@example.com,Munich,Germany,2026-05-03,Silver
+CUST_00400,Matthew Miller,matthew.miller400@example.com,New York,USA,2026-04-07,Silver
+CUST_00401,Olivia Jackson,olivia.jackson401@example.com,Sydney,Australia,2025-03-28,Bronze
+CUST_00402,Matthew Wilson,matthew.wilson402@example.com,New York,USA,2025-09-11,Gold
+CUST_00403,Daniel Patel,daniel.patel403@example.com,Berlin,Germany,2026-06-20,Silver
+CUST_00404,Priya Wilson,priya.wilson404@example.com,Manchester,UK,2026-01-17,Gold
+CUST_00405,Sophia Harris,sophia.harris405@example.com,Toronto,Canada,2025-12-13,Bronze
+CUST_00406,Priya Johnson,priya.johnson406@example.com,Melbourne,Australia,2025-12-09,Gold
+CUST_00407,Liam Jackson,liam.jackson407@example.com,San Francisco,USA,2026-07-26,Bronze
+CUST_00408,Ethan Thomas,ethan.thomas408@example.com,London,UK,2025-06-03,Bronze
+CUST_00409,Alexander Brown,alexander.brown409@example.com,Munich,Germany,2025-05-25,Gold
+CUST_00410,Charlotte Thomas,charlotte.thomas410@example.com,Paris,France,2026-02-06,Bronze
+CUST_00411,Noah Walker,noah.walker411@example.com,Sydney,Australia,2025-03-28,Bronze
+CUST_00412,Sophia Lewis,sophia.lewis412@example.com,Toronto,Canada,2025-12-03,Platinum
+CUST_00413,Noah Clark,noah.clark413@example.com,San Francisco,USA,2026-03-10,Platinum
+CUST_00414,Matthew White,matthew.white414@example.com,New York,USA,2026-01-07,Silver
+CUST_00415,Sophia Wilson,sophia.wilson415@example.com,Austin,USA,2025-12-16,Silver
+CUST_00416,Harper Davis,harper.davis416@example.com,Austin,USA,2025-05-21,Bronze
+CUST_00417,Noah Brown,noah.brown417@example.com,London,UK,2025-04-14,Bronze
+CUST_00418,Matthew Lewis,matthew.lewis418@example.com,Bangalore,India,2026-06-24,Bronze
+CUST_00419,Emma Jackson,emma.jackson419@example.com,Mumbai,India,2025-05-15,Silver
+CUST_00420,Priya Harris,priya.harris420@example.com,Chicago,USA,2025-06-16,Silver
+CUST_00421,Ava Walker,ava.walker421@example.com,Melbourne,Australia,2025-06-19,Silver
+CUST_00422,Daniel Johnson,daniel.johnson422@example.com,Toronto,Canada,2026-01-09,Silver
+CUST_00423,Mia Patel,mia.patel423@example.com,Munich,Germany,2025-10-19,Bronze
+CUST_00424,Daniel Martinez,daniel.martinez424@example.com,Berlin,Germany,2025-09-02,Bronze
+CUST_00425,Sophia Sharma,sophia.sharma425@example.com,Mumbai,India,2025-07-18,Bronze
+CUST_00426,Charlotte Lee,charlotte.lee426@example.com,Vancouver,Canada,2026-04-18,Silver
+CUST_00427,Sophia Harris,sophia.harris427@example.com,Berlin,Germany,2026-06-25,Bronze
+CUST_00428,Amelia Wilson,amelia.wilson428@example.com,Bangalore,India,2025-07-24,Gold
+CUST_00429,Priya Miller,priya.miller429@example.com,Bangalore,India,2025-09-14,Bronze
+CUST_00430,Emma Sharma,emma.sharma430@example.com,Bangalore,India,2026-01-16,Bronze
+CUST_00431,Evelyn Taylor,evelyn.taylor431@example.com,Sydney,Australia,2026-06-13,Bronze
+CUST_00432,Olivia Thomas,olivia.thomas432@example.com,San Francisco,USA,2025-06-14,Silver
+CUST_00433,Oliver Patel,oliver.patel433@example.com,Mumbai,India,2026-06-10,Silver
+CUST_00434,Noah Martin,noah.martin434@example.com,San Francisco,USA,2025-08-16,Bronze
+CUST_00435,Daniel White,daniel.white435@example.com,Mumbai,India,2025-01-28,Bronze
+CUST_00436,Amelia Johnson,amelia.johnson436@example.com,Toronto,Canada,2026-05-30,Silver
+CUST_00437,Charlotte Martinez,charlotte.martinez437@example.com,Toronto,Canada,2025-03-25,Bronze
+CUST_00438,Charlotte Martinez,charlotte.martinez438@example.com,New York,USA,2025-11-23,Gold
+CUST_00439,Olivia Jackson,olivia.jackson439@example.com,Melbourne,Australia,2025-05-30,Silver
+CUST_00440,Noah Johnson,noah.johnson440@example.com,London,UK,2026-04-29,Bronze
+CUST_00441,Noah Sharma,noah.sharma441@example.com,Vancouver,Canada,2025-01-06,Bronze
+CUST_00442,Liam Smith,liam.smith442@example.com,London,UK,2025-08-09,Platinum
+CUST_00443,Noah Lewis,noah.lewis443@example.com,Sydney,Australia,2026-06-25,Bronze
+CUST_00444,Amelia Taylor,amelia.taylor444@example.com,Melbourne,Australia,2025-10-23,Bronze
+CUST_00445,Mia Thomas,mia.thomas445@example.com,San Francisco,USA,2025-02-18,Gold
+CUST_00446,Mia Martin,mia.martin446@example.com,Paris,France,2026-04-14,Gold
+CUST_00447,Liam Taylor,liam.taylor447@example.com,Bangalore,India,2026-05-27,Platinum
+CUST_00448,Priya Lewis,priya.lewis448@example.com,New York,USA,2026-06-12,Silver
+CUST_00449,Aarav Martinez,aarav.martinez449@example.com,Sydney,Australia,2025-05-28,Bronze
+CUST_00450,Sophia Martin,sophia.martin450@example.com,New York,USA,2025-12-28,Bronze
+CUST_00451,Mia Lee,mia.lee451@example.com,Toronto,Canada,2025-07-11,Silver
+CUST_00452,Liam Clark,liam.clark452@example.com,Manchester,UK,2025-03-11,Silver
+CUST_00453,Matthew Lewis,matthew.lewis453@example.com,Berlin,Germany,2026-06-04,Bronze
+CUST_00454,Evelyn Smith,evelyn.smith454@example.com,Toronto,Canada,2026-04-27,Gold
+CUST_00455,Emma Harris,emma.harris455@example.com,Manchester,UK,2025-09-17,Bronze
+CUST_00456,James White,james.white456@example.com,Melbourne,Australia,2025-03-11,Bronze
+CUST_00457,Charlotte Martinez,charlotte.martinez457@example.com,Sydney,Australia,2025-04-17,Bronze
+CUST_00458,Aarav Jackson,aarav.jackson458@example.com,Chicago,USA,2025-02-15,Bronze
+CUST_00459,Charlotte Lewis,charlotte.lewis459@example.com,Manchester,UK,2025-06-29,Bronze
+CUST_00460,Daniel Sharma,daniel.sharma460@example.com,Paris,France,2025-07-06,Bronze
+CUST_00461,Noah Brown,noah.brown461@example.com,Sydney,Australia,2026-04-14,Bronze
+CUST_00462,Emma Thomas,emma.thomas462@example.com,Austin,USA,2025-02-14,Silver
+CUST_00463,Lucas Johnson,lucas.johnson463@example.com,Manchester,UK,2025-11-14,Silver
+CUST_00464,Matthew Harris,matthew.harris464@example.com,Bangalore,India,2026-07-11,Silver
+CUST_00465,Harper Anderson,harper.anderson465@example.com,New York,USA,2025-07-15,Platinum
+CUST_00466,Sophia White,sophia.white466@example.com,Bangalore,India,2025-02-18,Bronze
+CUST_00467,Alexander Anderson,alexander.anderson467@example.com,San Francisco,USA,2026-01-12,Bronze
+CUST_00468,Amelia Harris,amelia.harris468@example.com,Sydney,Australia,2026-03-27,Gold
+CUST_00469,Ethan Jackson,ethan.jackson469@example.com,Chicago,USA,2026-05-24,Bronze
+CUST_00470,Harper White,harper.white470@example.com,Mumbai,India,2026-06-16,Platinum
+CUST_00471,Oliver Brown,oliver.brown471@example.com,Sydney,Australia,2026-03-11,Bronze
+CUST_00472,Liam Martin,liam.martin472@example.com,Munich,Germany,2025-07-04,Platinum
+CUST_00473,Evelyn Thomas,evelyn.thomas473@example.com,Manchester,UK,2025-04-16,Bronze
+CUST_00474,Liam Jackson,liam.jackson474@example.com,Paris,France,2025-10-30,Gold
+CUST_00475,Sophia Patel,sophia.patel475@example.com,Munich,Germany,2026-03-13,Silver
+CUST_00476,Ava Patel,ava.patel476@example.com,Manchester,UK,2026-04-03,Platinum
+CUST_00477,Emma White,emma.white477@example.com,Munich,Germany,2026-03-22,Bronze
+CUST_00478,Oliver Johnson,oliver.johnson478@example.com,San Francisco,USA,2026-02-20,Silver
+CUST_00479,Charlotte Clark,charlotte.clark479@example.com,Melbourne,Australia,2025-06-13,Platinum
+CUST_00480,James Miller,james.miller480@example.com,Bangalore,India,2026-03-25,Silver
+CUST_00481,Emma Miller,emma.miller481@example.com,San Francisco,USA,2025-08-30,Silver
+CUST_00482,Charlotte White,charlotte.white482@example.com,Toronto,Canada,2026-08-04,Silver
+CUST_00483,Emma Walker,emma.walker483@example.com,Chicago,USA,2026-04-06,Bronze
+CUST_00484,Charlotte White,charlotte.white484@example.com,Vancouver,Canada,2025-03-20,Silver
+CUST_00485,Aarav Miller,aarav.miller485@example.com,Berlin,Germany,2026-01-11,Silver
+CUST_00486,Ethan Jackson,ethan.jackson486@example.com,Paris,France,2025-10-13,Gold
+CUST_00487,Mia Taylor,mia.taylor487@example.com,New York,USA,2025-07-10,Bronze
+CUST_00488,Harper Clark,harper.clark488@example.com,Toronto,Canada,2026-07-30,Bronze
+CUST_00489,Olivia Anderson,olivia.anderson489@example.com,Melbourne,Australia,2025-09-24,Platinum
+CUST_00490,Daniel Davis,daniel.davis490@example.com,Munich,Germany,2025-10-20,Gold
+CUST_00491,Harper Davis,harper.davis491@example.com,San Francisco,USA,2025-05-19,Bronze
+CUST_00492,Liam Patel,liam.patel492@example.com,Chicago,USA,2026-04-01,Silver
+CUST_00493,Liam Jackson,liam.jackson493@example.com,Paris,France,2025-12-22,Bronze
+CUST_00494,Liam Lewis,liam.lewis494@example.com,Berlin,Germany,2025-10-25,Bronze
+CUST_00495,Sophia Wilson,sophia.wilson495@example.com,Sydney,Australia,2025-06-28,Bronze
+CUST_00496,Charlotte Clark,charlotte.clark496@example.com,Austin,USA,2025-05-05,Bronze
+CUST_00497,Lucas Miller,lucas.miller497@example.com,Austin,USA,2026-05-21,Silver
+CUST_00498,James White,james.white498@example.com,Berlin,Germany,2026-08-10,Bronze
+CUST_00499,Charlotte Patel,charlotte.patel499@example.com,Melbourne,Australia,2026-07-19,Platinum
+CUST_00500,Noah Walker,noah.walker500@example.com,Mumbai,India,2025-03-30,Platinum
+CUST_00501,Liam Thomas,liam.thomas501@example.com,Toronto,Canada,2026-05-06,Silver
+CUST_00502,Matthew Martin,matthew.martin502@example.com,Melbourne,Australia,2026-02-24,Silver
+CUST_00503,Aarav Brown,aarav.brown503@example.com,Chicago,USA,2025-11-21,Bronze
+CUST_00504,Liam Patel,liam.patel504@example.com,Vancouver,Canada,2026-06-14,Gold
+CUST_00505,Charlotte Miller,charlotte.miller505@example.com,Mumbai,India,2026-07-19,Silver
+CUST_00506,Aarav Wilson,aarav.wilson506@example.com,Melbourne,Australia,2025-05-13,Bronze
+CUST_00507,Amelia Clark,amelia.clark507@example.com,Mumbai,India,2025-02-26,Gold
+CUST_00508,Olivia Clark,olivia.clark508@example.com,Chicago,USA,2025-11-08,Gold
+CUST_00509,Ava Wilson,ava.wilson509@example.com,Manchester,UK,2025-08-19,Gold
+CUST_00510,Charlotte Clark,charlotte.clark510@example.com,Mumbai,India,2025-10-18,Silver
+CUST_00511,Liam Anderson,liam.anderson511@example.com,Austin,USA,2026-07-19,Silver
+CUST_00512,Oliver Miller,oliver.miller512@example.com,Paris,France,2025-11-07,Bronze
+CUST_00513,Priya Lewis,priya.lewis513@example.com,San Francisco,USA,2026-05-30,Gold
+CUST_00514,Ava Lee,ava.lee514@example.com,Munich,Germany,2025-06-07,Gold
+CUST_00515,Ava Walker,ava.walker515@example.com,Sydney,Australia,2025-12-12,Bronze
+CUST_00516,Aarav Johnson,aarav.johnson516@example.com,Bangalore,India,2025-01-30,Bronze
+CUST_00517,Liam Johnson,liam.johnson517@example.com,Paris,France,2026-08-14,Bronze
+CUST_00518,Oliver Davis,oliver.davis518@example.com,Melbourne,Australia,2026-08-09,Gold
+CUST_00519,Amelia Walker,amelia.walker519@example.com,Paris,France,2025-02-01,Platinum
+CUST_00520,Harper Lewis,harper.lewis520@example.com,London,UK,2025-11-06,Bronze
+CUST_00521,Harper Martinez,harper.martinez521@example.com,Melbourne,Australia,2026-02-20,Silver
+CUST_00522,Sophia Patel,sophia.patel522@example.com,San Francisco,USA,2025-03-03,Bronze
+CUST_00523,Ava Patel,ava.patel523@example.com,Toronto,Canada,2026-05-11,Platinum
+CUST_00524,Daniel Davis,daniel.davis524@example.com,Manchester,UK,2025-05-28,Gold
+CUST_00525,Alexander Jackson,alexander.jackson525@example.com,Sydney,Australia,2025-12-20,Gold
+CUST_00526,Ethan Miller,ethan.miller526@example.com,Melbourne,Australia,2026-01-15,Bronze
+CUST_00527,Matthew Lewis,matthew.lewis527@example.com,San Francisco,USA,2025-11-23,Bronze
+CUST_00528,Mia Patel,mia.patel528@example.com,San Francisco,USA,2025-10-01,Bronze
+CUST_00529,Daniel Martinez,daniel.martinez529@example.com,Chicago,USA,2025-04-10,Bronze
+CUST_00530,Emma Thomas,emma.thomas530@example.com,Toronto,Canada,2026-03-05,Gold
+CUST_00531,Mia Wilson,mia.wilson531@example.com,Bangalore,India,2025-12-02,Gold
+CUST_00532,Aarav Jackson,aarav.jackson532@example.com,Austin,USA,2025-06-13,Platinum
+CUST_00533,Harper Clark,harper.clark533@example.com,Vancouver,Canada,2026-05-26,Platinum
+CUST_00534,Sophia Sharma,sophia.sharma534@example.com,New York,USA,2025-04-03,Silver
+CUST_00535,Ethan Clark,ethan.clark535@example.com,Vancouver,Canada,2025-09-04,Silver
+CUST_00536,Lucas Lee,lucas.lee536@example.com,Manchester,UK,2025-02-19,Gold
+CUST_00537,Emma Thomas,emma.thomas537@example.com,Vancouver,Canada,2026-04-27,Gold
+CUST_00538,Sophia Lewis,sophia.lewis538@example.com,New York,USA,2025-04-21,Bronze
+CUST_00539,Amelia Miller,amelia.miller539@example.com,Mumbai,India,2025-09-28,Bronze
+CUST_00540,Charlotte Harris,charlotte.harris540@example.com,Manchester,UK,2025-02-16,Bronze
+CUST_00541,Ethan Johnson,ethan.johnson541@example.com,Munich,Germany,2026-07-30,Platinum
+CUST_00542,Lucas White,lucas.white542@example.com,Berlin,Germany,2025-10-23,Silver
+CUST_00543,Liam Harris,liam.harris543@example.com,Berlin,Germany,2026-04-07,Bronze
+CUST_00544,Evelyn Anderson,evelyn.anderson544@example.com,Bangalore,India,2025-05-02,Silver
+CUST_00545,Noah Taylor,noah.taylor545@example.com,Toronto,Canada,2026-01-18,Silver
+CUST_00546,Alexander Lewis,alexander.lewis546@example.com,Manchester,UK,2025-05-28,Bronze
+CUST_00547,Lucas Walker,lucas.walker547@example.com,Berlin,Germany,2026-02-16,Bronze
+CUST_00548,Matthew Johnson,matthew.johnson548@example.com,New York,USA,2025-02-09,Silver
+CUST_00549,Noah Jackson,noah.jackson549@example.com,Melbourne,Australia,2026-05-01,Silver
+CUST_00550,Matthew Patel,matthew.patel550@example.com,Chicago,USA,2026-06-12,Silver
+CUST_00551,Noah Jackson,noah.jackson551@example.com,Mumbai,India,2025-11-23,Silver
+CUST_00552,Ava Harris,ava.harris552@example.com,Munich,Germany,2025-11-03,Gold
+CUST_00553,Aarav Jackson,aarav.jackson553@example.com,Berlin,Germany,2026-06-06,Silver
+CUST_00554,Evelyn Sharma,evelyn.sharma554@example.com,Sydney,Australia,2026-07-31,Silver
+CUST_00555,Sophia Sharma,sophia.sharma555@example.com,Bangalore,India,2025-01-18,Gold
+CUST_00556,Charlotte Jackson,charlotte.jackson556@example.com,Paris,France,2025-04-23,Bronze
+CUST_00557,Amelia Lee,amelia.lee557@example.com,London,UK,2025-01-28,Bronze
+CUST_00558,Priya Sharma,priya.sharma558@example.com,London,UK,2026-08-16,Bronze
+CUST_00559,Aarav Martinez,aarav.martinez559@example.com,Sydney,Australia,2025-02-22,Silver
+CUST_00560,Aarav Sharma,aarav.sharma560@example.com,Chicago,USA,2026-06-21,Silver
+CUST_00561,Priya Harris,priya.harris561@example.com,Chicago,USA,2025-09-06,Silver
+CUST_00562,Emma Lee,emma.lee562@example.com,Sydney,Australia,2025-04-23,Bronze
+CUST_00563,Lucas Smith,lucas.smith563@example.com,Vancouver,Canada,2025-11-18,Bronze
+CUST_00564,Amelia Miller,amelia.miller564@example.com,Toronto,Canada,2025-07-28,Bronze
+CUST_00565,Amelia Clark,amelia.clark565@example.com,Melbourne,Australia,2026-04-28,Bronze
+CUST_00566,Emma Miller,emma.miller566@example.com,Berlin,Germany,2025-08-01,Silver
+CUST_00567,Evelyn Jackson,evelyn.jackson567@example.com,Paris,France,2026-05-05,Bronze
+CUST_00568,Matthew Harris,matthew.harris568@example.com,Manchester,UK,2025-06-27,Bronze
+CUST_00569,Daniel Lewis,daniel.lewis569@example.com,Manchester,UK,2026-07-14,Gold
+CUST_00570,Charlotte Anderson,charlotte.anderson570@example.com,Munich,Germany,2026-05-11,Bronze
+CUST_00571,Lucas Martinez,lucas.martinez571@example.com,London,UK,2026-07-26,Silver
+CUST_00572,Sophia Martinez,sophia.martinez572@example.com,London,UK,2025-10-23,Silver
+CUST_00573,Lucas Sharma,lucas.sharma573@example.com,Manchester,UK,2026-05-07,Bronze
+CUST_00574,Charlotte Lewis,charlotte.lewis574@example.com,Mumbai,India,2025-10-08,Silver
+CUST_00575,Sophia Taylor,sophia.taylor575@example.com,Munich,Germany,2026-07-11,Gold
+CUST_00576,Ethan Harris,ethan.harris576@example.com,Bangalore,India,2025-12-20,Gold
+CUST_00577,Noah Thomas,noah.thomas577@example.com,New York,USA,2025-10-22,Bronze
+CUST_00578,Liam White,liam.white578@example.com,Mumbai,India,2026-03-29,Gold
+CUST_00579,Oliver Sharma,oliver.sharma579@example.com,Austin,USA,2025-07-26,Bronze
+CUST_00580,Evelyn Anderson,evelyn.anderson580@example.com,Mumbai,India,2026-07-30,Bronze
+CUST_00581,Oliver Miller,oliver.miller581@example.com,San Francisco,USA,2026-08-24,Bronze
+CUST_00582,Mia Martinez,mia.martinez582@example.com,New York,USA,2026-06-28,Platinum
+CUST_00583,Mia Martinez,mia.martinez583@example.com,New York,USA,2025-04-13,Bronze
+CUST_00584,Amelia Jackson,amelia.jackson584@example.com,Sydney,Australia,2026-04-29,Bronze
+CUST_00585,Olivia Miller,olivia.miller585@example.com,New York,USA,2026-07-18,Silver
+CUST_00586,Ava Martin,ava.martin586@example.com,Paris,France,2026-05-03,Bronze
+CUST_00587,Harper Davis,harper.davis587@example.com,Melbourne,Australia,2025-10-22,Bronze
+CUST_00588,Alexander Thomas,alexander.thomas588@example.com,Paris,France,2025-03-02,Bronze
+CUST_00589,Liam Lee,liam.lee589@example.com,Austin,USA,2026-07-02,Bronze
+CUST_00590,Emma Wilson,emma.wilson590@example.com,Toronto,Canada,2025-06-30,Bronze
+CUST_00591,Emma Harris,emma.harris591@example.com,Melbourne,Australia,2026-05-23,Bronze
+CUST_00592,Ava Thomas,ava.thomas592@example.com,Mumbai,India,2025-02-08,Silver
+CUST_00593,James Thomas,james.thomas593@example.com,Munich,Germany,2025-04-20,Bronze
+CUST_00594,Alexander Thomas,alexander.thomas594@example.com,Vancouver,Canada,2026-07-11,Bronze
+CUST_00595,Matthew Sharma,matthew.sharma595@example.com,Mumbai,India,2025-05-18,Gold
+CUST_00596,Matthew Patel,matthew.patel596@example.com,London,UK,2025-07-17,Bronze
+CUST_00597,Olivia Jackson,olivia.jackson597@example.com,Chicago,USA,2026-04-15,Silver
+CUST_00598,Oliver Wilson,oliver.wilson598@example.com,New York,USA,2025-12-12,Bronze
+CUST_00599,Sophia Lee,sophia.lee599@example.com,Paris,France,2025-07-17,Bronze
+CUST_00600,Ava Walker,ava.walker600@example.com,Bangalore,India,2026-02-20,Bronze
+CUST_00601,Amelia Clark,amelia.clark601@example.com,Manchester,UK,2025-03-30,Bronze
+CUST_00602,Ethan Taylor,ethan.taylor602@example.com,Chicago,USA,2025-05-24,Bronze
+CUST_00603,Harper Jackson,harper.jackson603@example.com,Mumbai,India,2025-09-12,Bronze
+CUST_00604,James Anderson,james.anderson604@example.com,Toronto,Canada,2025-08-30,Bronze
+CUST_00605,Daniel Anderson,daniel.anderson605@example.com,Manchester,UK,2025-11-06,Bronze
+CUST_00606,Aarav Lee,aarav.lee606@example.com,New York,USA,2025-09-25,Bronze
+CUST_00607,Charlotte Martinez,charlotte.martinez607@example.com,New York,USA,2025-05-02,Bronze
+CUST_00608,Daniel Thomas,daniel.thomas608@example.com,Chicago,USA,2026-02-20,Bronze
+CUST_00609,Matthew Thomas,matthew.thomas609@example.com,Sydney,Australia,2025-05-01,Silver
+CUST_00610,Sophia White,sophia.white610@example.com,Munich,Germany,2025-08-15,Silver
+CUST_00611,Mia Miller,mia.miller611@example.com,Vancouver,Canada,2025-06-06,Bronze
+CUST_00612,Daniel Walker,daniel.walker612@example.com,Manchester,UK,2026-03-02,Silver
+CUST_00613,Evelyn Sharma,evelyn.sharma613@example.com,Melbourne,Australia,2026-07-05,Silver
+CUST_00614,Lucas Martinez,lucas.martinez614@example.com,Paris,France,2025-03-25,Bronze
+CUST_00615,Matthew Patel,matthew.patel615@example.com,Berlin,Germany,2026-01-06,Gold
+CUST_00616,Liam Lee,liam.lee616@example.com,San Francisco,USA,2025-03-05,Gold
+CUST_00617,Evelyn Clark,evelyn.clark617@example.com,Austin,USA,2026-08-10,Bronze
+CUST_00618,Evelyn Miller,evelyn.miller618@example.com,Chicago,USA,2025-12-02,Bronze
+CUST_00619,Matthew Patel,matthew.patel619@example.com,San Francisco,USA,2025-07-30,Gold
+CUST_00620,Aarav Sharma,aarav.sharma620@example.com,San Francisco,USA,2026-06-07,Silver
+CUST_00621,Daniel Johnson,daniel.johnson621@example.com,Vancouver,Canada,2025-05-16,Bronze
+CUST_00622,Matthew Martin,matthew.martin622@example.com,Vancouver,Canada,2026-08-01,Bronze
+CUST_00623,Emma Lewis,emma.lewis623@example.com,Vancouver,Canada,2025-11-12,Bronze
+CUST_00624,James Harris,james.harris624@example.com,London,UK,2025-01-04,Bronze
+CUST_00625,Lucas Lee,lucas.lee625@example.com,San Francisco,USA,2025-02-16,Silver
+CUST_00626,Amelia White,amelia.white626@example.com,Sydney,Australia,2025-03-07,Bronze
+CUST_00627,Evelyn Johnson,evelyn.johnson627@example.com,Mumbai,India,2025-03-12,Bronze
+CUST_00628,Harper Johnson,harper.johnson628@example.com,London,UK,2026-02-23,Silver
+CUST_00629,Ava Miller,ava.miller629@example.com,Melbourne,Australia,2026-03-07,Bronze
+CUST_00630,Charlotte Harris,charlotte.harris630@example.com,Vancouver,Canada,2026-01-22,Bronze
+CUST_00631,Ethan Brown,ethan.brown631@example.com,Paris,France,2026-07-07,Silver
+CUST_00632,Noah White,noah.white632@example.com,San Francisco,USA,2025-07-02,Gold
+CUST_00633,Evelyn Harris,evelyn.harris633@example.com,Berlin,Germany,2025-05-11,Silver
+CUST_00634,Mia Smith,mia.smith634@example.com,Melbourne,Australia,2025-01-24,Silver
+CUST_00635,Sophia Patel,sophia.patel635@example.com,Paris,France,2026-07-12,Bronze
+CUST_00636,Amelia Lewis,amelia.lewis636@example.com,Toronto,Canada,2025-08-24,Bronze
+CUST_00637,Mia Patel,mia.patel637@example.com,Manchester,UK,2025-06-08,Silver
+CUST_00638,Oliver Davis,oliver.davis638@example.com,Mumbai,India,2025-04-26,Bronze
+CUST_00639,Emma Martin,emma.martin639@example.com,Munich,Germany,2025-01-17,Bronze
+CUST_00640,Mia Davis,mia.davis640@example.com,San Francisco,USA,2025-04-14,Bronze
+CUST_00641,Priya Johnson,priya.johnson641@example.com,Vancouver,Canada,2025-02-19,Bronze
+CUST_00642,Mia Johnson,mia.johnson642@example.com,Toronto,Canada,2026-03-26,Bronze
+CUST_00643,Mia Lewis,mia.lewis643@example.com,Austin,USA,2025-02-27,Bronze
+CUST_00644,Noah Clark,noah.clark644@example.com,London,UK,2025-08-28,Bronze
+CUST_00645,Aarav Jackson,aarav.jackson645@example.com,Munich,Germany,2025-11-25,Bronze
+CUST_00646,Mia Thomas,mia.thomas646@example.com,Mumbai,India,2025-05-27,Gold
+CUST_00647,Matthew Martinez,matthew.martinez647@example.com,Toronto,Canada,2025-11-04,Silver
+CUST_00648,Oliver Johnson,oliver.johnson648@example.com,Berlin,Germany,2026-08-29,Silver
+CUST_00649,Ava Martin,ava.martin649@example.com,Berlin,Germany,2026-05-23,Silver
+CUST_00650,Emma White,emma.white650@example.com,Paris,France,2026-01-26,Bronze
+CUST_00651,Matthew Jackson,matthew.jackson651@example.com,Sydney,Australia,2026-03-03,Bronze
+CUST_00652,Amelia Miller,amelia.miller652@example.com,London,UK,2026-01-21,Silver
+CUST_00653,Ava Lewis,ava.lewis653@example.com,Vancouver,Canada,2025-09-04,Silver
+CUST_00654,Mia Thomas,mia.thomas654@example.com,Bangalore,India,2025-05-28,Silver
+CUST_00655,Daniel Johnson,daniel.johnson655@example.com,Berlin,Germany,2026-02-27,Bronze
+CUST_00656,Amelia Lewis,amelia.lewis656@example.com,Berlin,Germany,2025-05-18,Bronze
+CUST_00657,Ethan Martinez,ethan.martinez657@example.com,London,UK,2025-07-28,Bronze
+CUST_00658,Alexander Brown,alexander.brown658@example.com,Mumbai,India,2026-04-06,Bronze
+CUST_00659,Charlotte Brown,charlotte.brown659@example.com,Berlin,Germany,2025-07-15,Silver
+CUST_00660,Emma Anderson,emma.anderson660@example.com,Toronto,Canada,2025-02-10,Silver
+CUST_00661,Liam Davis,liam.davis661@example.com,Melbourne,Australia,2026-08-25,Bronze
+CUST_00662,Evelyn Davis,evelyn.davis662@example.com,Vancouver,Canada,2025-08-02,Platinum
+CUST_00663,Alexander Thomas,alexander.thomas663@example.com,Mumbai,India,2025-01-16,Silver
+CUST_00664,Lucas Davis,lucas.davis664@example.com,Sydney,Australia,2025-05-01,Bronze
+CUST_00665,Harper Martinez,harper.martinez665@example.com,Sydney,Australia,2025-07-29,Bronze
+CUST_00666,Ethan Martinez,ethan.martinez666@example.com,Berlin,Germany,2025-11-26,Bronze
+CUST_00667,Sophia Harris,sophia.harris667@example.com,Vancouver,Canada,2026-07-01,Bronze
+CUST_00668,Charlotte Thomas,charlotte.thomas668@example.com,London,UK,2026-01-04,Bronze
+CUST_00669,Matthew Sharma,matthew.sharma669@example.com,Vancouver,Canada,2025-04-11,Bronze
+CUST_00670,Harper Jackson,harper.jackson670@example.com,Mumbai,India,2025-07-28,Bronze
+CUST_00671,Charlotte Jackson,charlotte.jackson671@example.com,Toronto,Canada,2025-02-16,Bronze
+CUST_00672,Aarav Martinez,aarav.martinez672@example.com,Sydney,Australia,2025-05-30,Gold
+CUST_00673,James Anderson,james.anderson673@example.com,Berlin,Germany,2026-08-22,Bronze
+CUST_00674,Aarav Martin,aarav.martin674@example.com,London,UK,2025-06-06,Silver
+CUST_00675,Lucas Jackson,lucas.jackson675@example.com,Austin,USA,2026-01-24,Bronze
+CUST_00676,Aarav Martinez,aarav.martinez676@example.com,Vancouver,Canada,2026-07-18,Platinum
+CUST_00677,Alexander Anderson,alexander.anderson677@example.com,Melbourne,Australia,2026-05-16,Bronze
+CUST_00678,Harper Patel,harper.patel678@example.com,Chicago,USA,2025-12-27,Bronze
+CUST_00679,Ava Miller,ava.miller679@example.com,Sydney,Australia,2026-07-14,Platinum
+CUST_00680,Harper Wilson,harper.wilson680@example.com,Mumbai,India,2026-07-10,Gold
+CUST_00681,Emma Clark,emma.clark681@example.com,New York,USA,2025-03-18,Gold
+CUST_00682,Emma Smith,emma.smith682@example.com,Toronto,Canada,2025-05-21,Bronze
+CUST_00683,Mia Brown,mia.brown683@example.com,Sydney,Australia,2025-06-04,Bronze
+CUST_00684,James Davis,james.davis684@example.com,Berlin,Germany,2026-04-12,Silver
+CUST_00685,Charlotte Johnson,charlotte.johnson685@example.com,Munich,Germany,2026-05-10,Gold
+CUST_00686,Harper Smith,harper.smith686@example.com,New York,USA,2026-06-29,Silver
+CUST_00687,Evelyn Martin,evelyn.martin687@example.com,New York,USA,2025-01-18,Silver
+CUST_00688,Matthew Anderson,matthew.anderson688@example.com,Berlin,Germany,2025-10-21,Bronze
+CUST_00689,James Clark,james.clark689@example.com,Bangalore,India,2026-03-17,Silver
+CUST_00690,Ava Taylor,ava.taylor690@example.com,Mumbai,India,2025-04-09,Bronze
+CUST_00691,Matthew Miller,matthew.miller691@example.com,Austin,USA,2025-07-16,Bronze
+CUST_00692,Priya Clark,priya.clark692@example.com,London,UK,2025-12-29,Bronze
+CUST_00693,Oliver Harris,oliver.harris693@example.com,San Francisco,USA,2026-01-18,Silver
+CUST_00694,Ethan Patel,ethan.patel694@example.com,Munich,Germany,2025-09-07,Bronze
+CUST_00695,Mia Thomas,mia.thomas695@example.com,Paris,France,2025-03-24,Bronze
+CUST_00696,Emma Brown,emma.brown696@example.com,Toronto,Canada,2026-01-24,Silver
+CUST_00697,Ethan Lewis,ethan.lewis697@example.com,Vancouver,Canada,2025-02-27,Bronze
+CUST_00698,James Wilson,james.wilson698@example.com,San Francisco,USA,2026-05-27,Silver
+CUST_00699,Amelia Jackson,amelia.jackson699@example.com,Munich,Germany,2025-04-08,Bronze
+CUST_00700,Matthew Johnson,matthew.johnson700@example.com,Austin,USA,2025-08-05,Bronze
+CUST_00701,Aarav Sharma,aarav.sharma701@example.com,London,UK,2025-02-17,Silver
+CUST_00702,Liam Anderson,liam.anderson702@example.com,Mumbai,India,2026-07-11,Bronze
+CUST_00703,Aarav Johnson,aarav.johnson703@example.com,Chicago,USA,2025-11-19,Bronze
+CUST_00704,James Davis,james.davis704@example.com,Munich,Germany,2025-05-28,Bronze
+CUST_00705,Ethan Brown,ethan.brown705@example.com,London,UK,2025-06-16,Bronze
+CUST_00706,Aarav Martinez,aarav.martinez706@example.com,Munich,Germany,2026-02-03,Platinum
+CUST_00707,Evelyn Jackson,evelyn.jackson707@example.com,Toronto,Canada,2025-05-24,Bronze
+CUST_00708,Liam Clark,liam.clark708@example.com,Sydney,Australia,2025-12-21,Gold
+CUST_00709,Emma Taylor,emma.taylor709@example.com,Toronto,Canada,2025-08-26,Bronze
+CUST_00710,Liam Jackson,liam.jackson710@example.com,Munich,Germany,2026-02-11,Silver
+CUST_00711,Alexander Smith,alexander.smith711@example.com,Paris,France,2025-10-07,Silver
+CUST_00712,Daniel Sharma,daniel.sharma712@example.com,Austin,USA,2025-12-31,Silver
+CUST_00713,Evelyn Harris,evelyn.harris713@example.com,Toronto,Canada,2025-07-10,Bronze
+CUST_00714,Aarav Harris,aarav.harris714@example.com,San Francisco,USA,2025-10-30,Bronze
+CUST_00715,Mia Brown,mia.brown715@example.com,San Francisco,USA,2025-10-02,Bronze
+CUST_00716,Noah Harris,noah.harris716@example.com,Sydney,Australia,2025-06-07,Gold
+CUST_00717,Ethan Jackson,ethan.jackson717@example.com,Manchester,UK,2025-04-20,Gold
+CUST_00718,Liam Smith,liam.smith718@example.com,London,UK,2026-04-01,Platinum
+CUST_00719,Charlotte Anderson,charlotte.anderson719@example.com,San Francisco,USA,2025-05-16,Bronze
+CUST_00720,Liam Wilson,liam.wilson720@example.com,Toronto,Canada,2026-04-05,Silver
+CUST_00721,Evelyn Lewis,evelyn.lewis721@example.com,Berlin,Germany,2026-02-22,Gold
+CUST_00722,Olivia Smith,olivia.smith722@example.com,San Francisco,USA,2025-12-29,Bronze
+CUST_00723,Evelyn Brown,evelyn.brown723@example.com,Munich,Germany,2025-11-29,Bronze
+CUST_00724,Ethan Smith,ethan.smith724@example.com,London,UK,2026-02-28,Silver
+CUST_00725,Ethan Brown,ethan.brown725@example.com,Sydney,Australia,2026-07-27,Silver
+CUST_00726,Mia Lee,mia.lee726@example.com,Berlin,Germany,2025-06-23,Gold
+CUST_00727,Ethan Wilson,ethan.wilson727@example.com,Chicago,USA,2025-10-03,Bronze
+CUST_00728,Sophia Anderson,sophia.anderson728@example.com,Vancouver,Canada,2025-05-30,Silver
+CUST_00729,Liam Wilson,liam.wilson729@example.com,Toronto,Canada,2025-10-10,Bronze
+CUST_00730,Amelia Thomas,amelia.thomas730@example.com,Vancouver,Canada,2025-03-20,Bronze
+CUST_00731,Charlotte Anderson,charlotte.anderson731@example.com,Austin,USA,2026-05-23,Bronze
+CUST_00732,Priya Walker,priya.walker732@example.com,Austin,USA,2026-04-14,Gold
+CUST_00733,Olivia Miller,olivia.miller733@example.com,London,UK,2025-01-07,Silver
+CUST_00734,Ethan Jackson,ethan.jackson734@example.com,Bangalore,India,2026-01-25,Silver
+CUST_00735,Alexander Patel,alexander.patel735@example.com,Manchester,UK,2026-03-17,Bronze
+CUST_00736,Priya Miller,priya.miller736@example.com,London,UK,2025-11-25,Gold
+CUST_00737,Priya Davis,priya.davis737@example.com,Vancouver,Canada,2025-11-18,Bronze
+CUST_00738,Ava Harris,ava.harris738@example.com,Manchester,UK,2025-10-26,Gold
+CUST_00739,Harper Lee,harper.lee739@example.com,Melbourne,Australia,2025-09-06,Bronze
+CUST_00740,Alexander Harris,alexander.harris740@example.com,London,UK,2026-02-07,Bronze
+CUST_00741,Charlotte Taylor,charlotte.taylor741@example.com,Mumbai,India,2026-08-01,Bronze
+CUST_00742,Lucas Lee,lucas.lee742@example.com,Berlin,Germany,2025-07-04,Bronze
+CUST_00743,Evelyn Smith,evelyn.smith743@example.com,Sydney,Australia,2026-04-18,Silver
+CUST_00744,Lucas Patel,lucas.patel744@example.com,Melbourne,Australia,2025-10-26,Silver
+CUST_00745,Liam Martin,liam.martin745@example.com,Paris,France,2026-05-27,Bronze
+CUST_00746,Noah Thomas,noah.thomas746@example.com,Austin,USA,2025-09-16,Gold
+CUST_00747,Noah Martin,noah.martin747@example.com,Melbourne,Australia,2026-01-22,Bronze
+CUST_00748,Liam Patel,liam.patel748@example.com,Munich,Germany,2026-05-06,Silver
+CUST_00749,Aarav Harris,aarav.harris749@example.com,Berlin,Germany,2026-06-03,Gold
+CUST_00750,Amelia Lewis,amelia.lewis750@example.com,New York,USA,2026-01-04,Silver
+CUST_00751,Evelyn Walker,evelyn.walker751@example.com,Paris,France,2025-03-29,Bronze
+CUST_00752,Olivia Martinez,olivia.martinez752@example.com,Paris,France,2025-12-30,Gold
+CUST_00753,Ava Walker,ava.walker753@example.com,New York,USA,2026-07-31,Silver
+CUST_00754,Ethan Jackson,ethan.jackson754@example.com,Melbourne,Australia,2026-03-17,Bronze
+CUST_00755,Olivia Smith,olivia.smith755@example.com,San Francisco,USA,2025-09-22,Bronze
+CUST_00756,Mia Clark,mia.clark756@example.com,Sydney,Australia,2026-06-16,Silver
+CUST_00757,Evelyn Lee,evelyn.lee757@example.com,Sydney,Australia,2026-08-13,Silver
+CUST_00758,Mia Patel,mia.patel758@example.com,Manchester,UK,2026-02-05,Silver
+CUST_00759,Daniel Lee,daniel.lee759@example.com,Sydney,Australia,2026-05-28,Gold
+CUST_00760,Noah White,noah.white760@example.com,New York,USA,2026-05-10,Silver
+CUST_00761,Olivia Thomas,olivia.thomas761@example.com,Toronto,Canada,2025-03-29,Bronze
+CUST_00762,Olivia Miller,olivia.miller762@example.com,Manchester,UK,2025-11-16,Bronze
+CUST_00763,Alexander Patel,alexander.patel763@example.com,Melbourne,Australia,2025-07-31,Bronze
+CUST_00764,Matthew Sharma,matthew.sharma764@example.com,Manchester,UK,2026-05-03,Silver
+CUST_00765,Olivia Patel,olivia.patel765@example.com,Sydney,Australia,2026-04-09,Bronze
+CUST_00766,Alexander Brown,alexander.brown766@example.com,London,UK,2025-02-15,Silver
+CUST_00767,Olivia Smith,olivia.smith767@example.com,Bangalore,India,2025-12-18,Silver
+CUST_00768,Olivia Wilson,olivia.wilson768@example.com,Mumbai,India,2025-09-07,Gold
+CUST_00769,Matthew Wilson,matthew.wilson769@example.com,Berlin,Germany,2025-06-13,Bronze
+CUST_00770,Alexander Lewis,alexander.lewis770@example.com,Toronto,Canada,2026-04-19,Gold
+CUST_00771,Mia Harris,mia.harris771@example.com,Paris,France,2025-07-08,Bronze
+CUST_00772,Ava Martin,ava.martin772@example.com,Toronto,Canada,2025-01-30,Gold
+CUST_00773,Priya Davis,priya.davis773@example.com,Vancouver,Canada,2026-08-30,Bronze
+CUST_00774,Amelia Harris,amelia.harris774@example.com,New York,USA,2025-08-08,Bronze
+CUST_00775,Lucas Anderson,lucas.anderson775@example.com,Melbourne,Australia,2025-03-06,Silver
+CUST_00776,Aarav Taylor,aarav.taylor776@example.com,Melbourne,Australia,2026-07-04,Bronze
+CUST_00777,Ava White,ava.white777@example.com,Manchester,UK,2025-07-21,Bronze
+CUST_00778,Daniel Taylor,daniel.taylor778@example.com,London,UK,2026-05-17,Silver
+CUST_00779,Matthew Jackson,matthew.jackson779@example.com,Munich,Germany,2026-02-02,Silver
+CUST_00780,Priya Harris,priya.harris780@example.com,Munich,Germany,2025-04-27,Silver
+CUST_00781,Charlotte White,charlotte.white781@example.com,Bangalore,India,2026-04-14,Silver
+CUST_00782,Priya Wilson,priya.wilson782@example.com,Bangalore,India,2025-11-01,Silver
+CUST_00783,Priya Lee,priya.lee783@example.com,San Francisco,USA,2025-05-18,Bronze
+CUST_00784,Alexander Taylor,alexander.taylor784@example.com,Austin,USA,2025-11-09,Bronze
+CUST_00785,Olivia Wilson,olivia.wilson785@example.com,Manchester,UK,2025-05-25,Bronze
+CUST_00786,Matthew Harris,matthew.harris786@example.com,Toronto,Canada,2025-05-22,Gold
+CUST_00787,Aarav Harris,aarav.harris787@example.com,Toronto,Canada,2025-07-10,Silver
+CUST_00788,Harper Lewis,harper.lewis788@example.com,Sydney,Australia,2025-06-27,Bronze
+CUST_00789,Evelyn Wilson,evelyn.wilson789@example.com,Vancouver,Canada,2025-10-23,Bronze
+CUST_00790,Noah Wilson,noah.wilson790@example.com,Manchester,UK,2026-04-07,Gold
+CUST_00791,Priya Johnson,priya.johnson791@example.com,Bangalore,India,2026-01-03,Bronze
+CUST_00792,James Sharma,james.sharma792@example.com,Chicago,USA,2025-07-19,Silver
+CUST_00793,Ethan Lewis,ethan.lewis793@example.com,Berlin,Germany,2026-05-22,Silver
+CUST_00794,Amelia Sharma,amelia.sharma794@example.com,Toronto,Canada,2026-03-31,Silver
+CUST_00795,Harper Wilson,harper.wilson795@example.com,San Francisco,USA,2026-08-02,Bronze
+CUST_00796,James Martinez,james.martinez796@example.com,London,UK,2025-02-03,Gold
+CUST_00797,Oliver Martinez,oliver.martinez797@example.com,Berlin,Germany,2025-10-23,Gold
+CUST_00798,Ava Patel,ava.patel798@example.com,Munich,Germany,2026-05-23,Silver
+CUST_00799,Evelyn Clark,evelyn.clark799@example.com,San Francisco,USA,2026-08-10,Silver
+CUST_00800,Olivia Anderson,olivia.anderson800@example.com,Melbourne,Australia,2026-07-11,Gold
+CUST_00801,Charlotte Lewis,charlotte.lewis801@example.com,Bangalore,India,2025-02-12,Silver
+CUST_00802,Daniel Lewis,daniel.lewis802@example.com,Austin,USA,2026-03-12,Bronze
+CUST_00803,Olivia Martinez,olivia.martinez803@example.com,London,UK,2025-02-03,Silver
+CUST_00804,Daniel Anderson,daniel.anderson804@example.com,Manchester,UK,2025-03-31,Silver
+CUST_00805,Daniel Taylor,daniel.taylor805@example.com,Melbourne,Australia,2025-08-31,Bronze
+CUST_00806,Lucas Lee,lucas.lee806@example.com,Sydney,Australia,2025-12-26,Silver
+CUST_00807,Priya Martin,priya.martin807@example.com,Chicago,USA,2025-05-23,Gold
+CUST_00808,Lucas Davis,lucas.davis808@example.com,Melbourne,Australia,2025-03-02,Gold
+CUST_00809,Aarav White,aarav.white809@example.com,Berlin,Germany,2025-10-15,Bronze
+CUST_00810,Priya Lewis,priya.lewis810@example.com,Chicago,USA,2025-11-28,Bronze
+CUST_00811,Sophia Thomas,sophia.thomas811@example.com,Munich,Germany,2025-10-01,Platinum
+CUST_00812,Matthew Taylor,matthew.taylor812@example.com,Chicago,USA,2026-02-26,Gold
+CUST_00813,Emma Anderson,emma.anderson813@example.com,Bangalore,India,2025-05-10,Bronze
+CUST_00814,Noah Martinez,noah.martinez814@example.com,Chicago,USA,2025-11-26,Gold
+CUST_00815,Mia Harris,mia.harris815@example.com,Vancouver,Canada,2025-05-26,Gold
+CUST_00816,Aarav Anderson,aarav.anderson816@example.com,Paris,France,2026-03-01,Silver
+CUST_00817,Ethan Patel,ethan.patel817@example.com,San Francisco,USA,2025-04-06,Silver
+CUST_00818,Ethan Clark,ethan.clark818@example.com,Sydney,Australia,2025-10-12,Bronze
+CUST_00819,Charlotte Patel,charlotte.patel819@example.com,Vancouver,Canada,2025-12-02,Bronze
+CUST_00820,Aarav Smith,aarav.smith820@example.com,Bangalore,India,2025-04-06,Bronze
+CUST_00821,Daniel White,daniel.white821@example.com,Bangalore,India,2025-03-06,Gold
+CUST_00822,Evelyn Harris,evelyn.harris822@example.com,Austin,USA,2026-03-16,Bronze
+CUST_00823,Lucas Sharma,lucas.sharma823@example.com,London,UK,2025-11-27,Bronze
+CUST_00824,Sophia Jackson,sophia.jackson824@example.com,Berlin,Germany,2026-08-15,Bronze
+CUST_00825,Noah Lee,noah.lee825@example.com,Bangalore,India,2026-05-12,Silver
+CUST_00826,Alexander Johnson,alexander.johnson826@example.com,New York,USA,2025-04-12,Gold
+CUST_00827,Daniel Smith,daniel.smith827@example.com,San Francisco,USA,2025-06-11,Bronze
+CUST_00828,Daniel Patel,daniel.patel828@example.com,New York,USA,2026-03-15,Bronze
+CUST_00829,Lucas Miller,lucas.miller829@example.com,Mumbai,India,2025-11-06,Silver
+CUST_00830,Ava Anderson,ava.anderson830@example.com,San Francisco,USA,2026-01-05,Bronze
+CUST_00831,Oliver Brown,oliver.brown831@example.com,Manchester,UK,2025-06-19,Bronze
+CUST_00832,Emma Harris,emma.harris832@example.com,Paris,France,2025-11-09,Bronze
+CUST_00833,Mia Martin,mia.martin833@example.com,Paris,France,2025-04-04,Bronze
+CUST_00834,Olivia Smith,olivia.smith834@example.com,Austin,USA,2026-05-04,Bronze
+CUST_00835,Liam Miller,liam.miller835@example.com,Munich,Germany,2025-08-20,Bronze
+CUST_00836,Matthew Patel,matthew.patel836@example.com,New York,USA,2025-01-09,Bronze
+CUST_00837,Alexander Taylor,alexander.taylor837@example.com,Bangalore,India,2026-03-09,Gold
+CUST_00838,Noah Sharma,noah.sharma838@example.com,San Francisco,USA,2025-08-23,Bronze
+CUST_00839,Ethan Brown,ethan.brown839@example.com,Sydney,Australia,2025-04-15,Silver
+CUST_00840,Olivia Jackson,olivia.jackson840@example.com,Manchester,UK,2025-11-03,Silver
+CUST_00841,Noah Harris,noah.harris841@example.com,Melbourne,Australia,2025-05-17,Bronze
+CUST_00842,Noah Brown,noah.brown842@example.com,Berlin,Germany,2026-07-31,Silver
+CUST_00843,James Walker,james.walker843@example.com,Paris,France,2025-06-18,Bronze
+CUST_00844,Daniel White,daniel.white844@example.com,Sydney,Australia,2025-08-07,Platinum
+CUST_00845,Noah Martin,noah.martin845@example.com,Munich,Germany,2026-03-30,Bronze
+CUST_00846,Lucas Brown,lucas.brown846@example.com,Mumbai,India,2025-04-13,Bronze
+CUST_00847,Noah Taylor,noah.taylor847@example.com,Munich,Germany,2026-01-29,Bronze
+CUST_00848,Charlotte Martin,charlotte.martin848@example.com,Manchester,UK,2025-05-24,Platinum
+CUST_00849,Mia Anderson,mia.anderson849@example.com,Paris,France,2025-03-28,Silver
+CUST_00850,Mia Lewis,mia.lewis850@example.com,Munich,Germany,2025-10-19,Silver
+CUST_00851,James Thomas,james.thomas851@example.com,Austin,USA,2026-06-15,Bronze
+CUST_00852,Priya Clark,priya.clark852@example.com,Austin,USA,2026-02-06,Silver
+CUST_00853,Sophia Johnson,sophia.johnson853@example.com,Melbourne,Australia,2025-09-03,Bronze
+CUST_00854,Harper Harris,harper.harris854@example.com,San Francisco,USA,2025-09-04,Gold
+CUST_00855,Harper Walker,harper.walker855@example.com,San Francisco,USA,2026-06-25,Bronze
+CUST_00856,James White,james.white856@example.com,Mumbai,India,2025-11-21,Bronze
+CUST_00857,Noah Harris,noah.harris857@example.com,Bangalore,India,2026-08-06,Bronze
+CUST_00858,Amelia White,amelia.white858@example.com,Berlin,Germany,2025-06-26,Bronze
+CUST_00859,Harper Brown,harper.brown859@example.com,New York,USA,2026-08-25,Silver
+CUST_00860,Liam Smith,liam.smith860@example.com,London,UK,2025-08-09,Bronze
+CUST_00861,Emma Johnson,emma.johnson861@example.com,Melbourne,Australia,2026-02-12,Silver
+CUST_00862,Matthew Thomas,matthew.thomas862@example.com,Paris,France,2026-05-29,Bronze
+CUST_00863,Amelia Martin,amelia.martin863@example.com,Sydney,Australia,2026-02-16,Silver
+CUST_00864,Liam Lewis,liam.lewis864@example.com,Berlin,Germany,2025-06-06,Bronze
+CUST_00865,Oliver Brown,oliver.brown865@example.com,London,UK,2025-03-22,Bronze
+CUST_00866,Matthew Davis,matthew.davis866@example.com,Melbourne,Australia,2025-06-09,Silver
+CUST_00867,Evelyn Jackson,evelyn.jackson867@example.com,Toronto,Canada,2026-08-24,Bronze
+CUST_00868,Liam Thomas,liam.thomas868@example.com,Sydney,Australia,2026-03-24,Bronze
+CUST_00869,Mia Johnson,mia.johnson869@example.com,Austin,USA,2025-03-30,Gold
+CUST_00870,Amelia Taylor,amelia.taylor870@example.com,Vancouver,Canada,2025-02-26,Gold
+CUST_00871,Sophia Wilson,sophia.wilson871@example.com,San Francisco,USA,2025-01-13,Bronze
+CUST_00872,Noah Smith,noah.smith872@example.com,Chicago,USA,2026-05-24,Bronze
+CUST_00873,Charlotte Clark,charlotte.clark873@example.com,Berlin,Germany,2025-09-23,Silver
+CUST_00874,Ava White,ava.white874@example.com,Chicago,USA,2025-10-03,Bronze
+CUST_00875,Olivia Smith,olivia.smith875@example.com,Manchester,UK,2026-03-16,Bronze
+CUST_00876,Oliver Clark,oliver.clark876@example.com,San Francisco,USA,2025-09-27,Bronze
+CUST_00877,Aarav Brown,aarav.brown877@example.com,Vancouver,Canada,2026-04-12,Silver
+CUST_00878,Matthew White,matthew.white878@example.com,New York,USA,2026-05-27,Silver
+CUST_00879,Aarav Wilson,aarav.wilson879@example.com,Manchester,UK,2025-06-11,Bronze
+CUST_00880,Oliver Taylor,oliver.taylor880@example.com,Mumbai,India,2026-08-11,Bronze
+CUST_00881,Olivia Martinez,olivia.martinez881@example.com,Sydney,Australia,2026-06-06,Bronze
+CUST_00882,James Johnson,james.johnson882@example.com,Bangalore,India,2025-01-13,Silver
+CUST_00883,Mia Johnson,mia.johnson883@example.com,Vancouver,Canada,2026-01-08,Bronze
+CUST_00884,Ethan Miller,ethan.miller884@example.com,Chicago,USA,2025-02-06,Bronze
+CUST_00885,Evelyn Martin,evelyn.martin885@example.com,Austin,USA,2025-11-26,Silver
+CUST_00886,Mia Martin,mia.martin886@example.com,Mumbai,India,2025-11-24,Bronze
+CUST_00887,Oliver Brown,oliver.brown887@example.com,Munich,Germany,2026-01-17,Silver
+CUST_00888,Olivia Clark,olivia.clark888@example.com,Paris,France,2025-02-23,Bronze
+CUST_00889,Ava Martinez,ava.martinez889@example.com,Melbourne,Australia,2026-06-13,Bronze
+CUST_00890,Emma Harris,emma.harris890@example.com,San Francisco,USA,2026-04-22,Bronze
+CUST_00891,Sophia Thomas,sophia.thomas891@example.com,Manchester,UK,2025-03-30,Silver
+CUST_00892,Evelyn Patel,evelyn.patel892@example.com,New York,USA,2026-01-13,Gold
+CUST_00893,Lucas Thomas,lucas.thomas893@example.com,Munich,Germany,2025-11-08,Gold
+CUST_00894,Priya Martinez,priya.martinez894@example.com,Vancouver,Canada,2026-01-13,Bronze
+CUST_00895,Aarav Sharma,aarav.sharma895@example.com,Melbourne,Australia,2025-07-20,Silver
+CUST_00896,Evelyn Martinez,evelyn.martinez896@example.com,Chicago,USA,2025-01-07,Bronze
+CUST_00897,Amelia Smith,amelia.smith897@example.com,Austin,USA,2026-07-09,Bronze
+CUST_00898,Charlotte Smith,charlotte.smith898@example.com,Manchester,UK,2025-01-02,Gold
+CUST_00899,Ethan Thomas,ethan.thomas899@example.com,San Francisco,USA,2025-07-30,Bronze
+CUST_00900,Matthew Martinez,matthew.martinez900@example.com,Toronto,Canada,2026-05-19,Bronze
+CUST_00901,Emma Miller,emma.miller901@example.com,Sydney,Australia,2025-10-14,Bronze
+CUST_00902,Liam Johnson,liam.johnson902@example.com,Mumbai,India,2025-08-26,Bronze
+CUST_00903,Matthew Martin,matthew.martin903@example.com,Sydney,Australia,2026-01-17,Bronze
+CUST_00904,Daniel Brown,daniel.brown904@example.com,Munich,Germany,2025-04-08,Silver
+CUST_00905,Matthew Miller,matthew.miller905@example.com,Paris,France,2026-02-08,Bronze
+CUST_00906,Liam Lee,liam.lee906@example.com,Munich,Germany,2025-03-05,Gold
+CUST_00907,Amelia Miller,amelia.miller907@example.com,Austin,USA,2025-10-26,Gold
+CUST_00908,Oliver Jackson,oliver.jackson908@example.com,Mumbai,India,2026-02-07,Bronze
+CUST_00909,Alexander Jackson,alexander.jackson909@example.com,Vancouver,Canada,2025-10-06,Bronze
+CUST_00910,Mia Brown,mia.brown910@example.com,Austin,USA,2025-05-20,Bronze
+CUST_00911,Aarav Taylor,aarav.taylor911@example.com,Chicago,USA,2025-04-19,Silver
+CUST_00912,Ava Patel,ava.patel912@example.com,Vancouver,Canada,2025-11-18,Bronze
+CUST_00913,Amelia Taylor,amelia.taylor913@example.com,Berlin,Germany,2026-01-02,Silver
+CUST_00914,Lucas Patel,lucas.patel914@example.com,London,UK,2026-04-20,Bronze
+CUST_00915,Oliver Taylor,oliver.taylor915@example.com,San Francisco,USA,2025-06-11,Silver
+CUST_00916,Sophia Walker,sophia.walker916@example.com,New York,USA,2025-08-09,Bronze
+CUST_00917,Alexander Miller,alexander.miller917@example.com,San Francisco,USA,2025-09-12,Bronze
+CUST_00918,Charlotte Harris,charlotte.harris918@example.com,Berlin,Germany,2025-02-20,Gold
+CUST_00919,Sophia Anderson,sophia.anderson919@example.com,Bangalore,India,2025-06-28,Silver
+CUST_00920,James Harris,james.harris920@example.com,Bangalore,India,2026-04-09,Bronze
+CUST_00921,Evelyn Lewis,evelyn.lewis921@example.com,Austin,USA,2025-04-07,Gold
+CUST_00922,Daniel Taylor,daniel.taylor922@example.com,Melbourne,Australia,2025-05-24,Bronze
+CUST_00923,Olivia Smith,olivia.smith923@example.com,New York,USA,2025-08-16,Gold
+CUST_00924,Noah Davis,noah.davis924@example.com,Bangalore,India,2026-02-15,Silver
+CUST_00925,Charlotte Brown,charlotte.brown925@example.com,Munich,Germany,2026-08-24,Bronze
+CUST_00926,Oliver Brown,oliver.brown926@example.com,New York,USA,2025-03-08,Bronze
+CUST_00927,Lucas Patel,lucas.patel927@example.com,Melbourne,Australia,2025-05-12,Bronze
+CUST_00928,Liam Jackson,liam.jackson928@example.com,San Francisco,USA,2025-02-13,Silver
+CUST_00929,Daniel Johnson,daniel.johnson929@example.com,Chicago,USA,2026-08-11,Silver
+CUST_00930,Amelia Harris,amelia.harris930@example.com,Vancouver,Canada,2025-01-31,Bronze
+CUST_00931,Ethan Martin,ethan.martin931@example.com,Chicago,USA,2025-12-29,Bronze
+CUST_00932,Lucas Wilson,lucas.wilson932@example.com,London,UK,2025-10-14,Gold
+CUST_00933,Daniel Miller,daniel.miller933@example.com,New York,USA,2025-09-09,Platinum
+CUST_00934,Sophia Sharma,sophia.sharma934@example.com,Toronto,Canada,2026-07-18,Silver
+CUST_00935,Harper Johnson,harper.johnson935@example.com,San Francisco,USA,2025-10-14,Bronze
+CUST_00936,Ethan Miller,ethan.miller936@example.com,Toronto,Canada,2025-07-24,Bronze
+CUST_00937,Matthew Martinez,matthew.martinez937@example.com,Paris,France,2026-07-11,Bronze
+CUST_00938,James Harris,james.harris938@example.com,Melbourne,Australia,2026-01-03,Gold
+CUST_00939,Harper Lewis,harper.lewis939@example.com,Melbourne,Australia,2026-05-12,Bronze
+CUST_00940,Charlotte Lee,charlotte.lee940@example.com,Berlin,Germany,2025-11-26,Silver
+CUST_00941,Ethan Anderson,ethan.anderson941@example.com,Chicago,USA,2025-01-27,Bronze
+CUST_00942,Alexander Walker,alexander.walker942@example.com,Austin,USA,2025-01-31,Silver
+CUST_00943,Oliver Johnson,oliver.johnson943@example.com,Melbourne,Australia,2026-04-29,Silver
+CUST_00944,Matthew White,matthew.white944@example.com,Melbourne,Australia,2026-08-22,Gold
+CUST_00945,Mia Wilson,mia.wilson945@example.com,San Francisco,USA,2025-09-11,Bronze
+CUST_00946,Mia Anderson,mia.anderson946@example.com,Berlin,Germany,2025-02-27,Bronze
+CUST_00947,Mia Lee,mia.lee947@example.com,Bangalore,India,2026-02-02,Bronze
+CUST_00948,Charlotte Wilson,charlotte.wilson948@example.com,Chicago,USA,2025-08-31,Gold
+CUST_00949,Aarav Jackson,aarav.jackson949@example.com,Melbourne,Australia,2026-01-03,Gold
+CUST_00950,Aarav Smith,aarav.smith950@example.com,Sydney,Australia,2025-12-27,Silver
+CUST_00951,Aarav Lee,aarav.lee951@example.com,Chicago,USA,2026-07-31,Silver
+CUST_00952,Lucas Sharma,lucas.sharma952@example.com,Berlin,Germany,2025-11-13,Silver
+CUST_00953,Ava Sharma,ava.sharma953@example.com,New York,USA,2025-04-03,Bronze
+CUST_00954,Emma Martinez,emma.martinez954@example.com,Munich,Germany,2025-08-13,Gold
+CUST_00955,James Clark,james.clark955@example.com,Vancouver,Canada,2025-01-01,Bronze
+CUST_00956,Alexander Walker,alexander.walker956@example.com,Austin,USA,2025-05-14,Bronze
+CUST_00957,Alexander Wilson,alexander.wilson957@example.com,Mumbai,India,2025-11-28,Silver
+CUST_00958,Emma Smith,emma.smith958@example.com,Chicago,USA,2026-08-24,Bronze
+CUST_00959,Noah Taylor,noah.taylor959@example.com,Bangalore,India,2026-06-23,Bronze
+CUST_00960,Charlotte Brown,charlotte.brown960@example.com,Manchester,UK,2026-02-10,Silver
+CUST_00961,Aarav Taylor,aarav.taylor961@example.com,Manchester,UK,2025-11-06,Bronze
+CUST_00962,Alexander Miller,alexander.miller962@example.com,Chicago,USA,2026-03-24,Silver
+CUST_00963,Harper Jackson,harper.jackson963@example.com,Chicago,USA,2026-07-30,Bronze
+CUST_00964,Priya White,priya.white964@example.com,Austin,USA,2026-08-27,Bronze
+CUST_00965,Ava Harris,ava.harris965@example.com,London,UK,2025-10-29,Bronze
+CUST_00966,Noah Wilson,noah.wilson966@example.com,Sydney,Australia,2025-01-02,Bronze
+CUST_00967,Aarav Harris,aarav.harris967@example.com,Bangalore,India,2026-08-05,Silver
+CUST_00968,Emma Wilson,emma.wilson968@example.com,Munich,Germany,2025-11-22,Bronze
+CUST_00969,Priya Martinez,priya.martinez969@example.com,Paris,France,2026-08-03,Silver
+CUST_00970,Olivia Sharma,olivia.sharma970@example.com,Chicago,USA,2025-12-06,Bronze
+CUST_00971,Liam Martinez,liam.martinez971@example.com,Manchester,UK,2025-11-24,Silver
+CUST_00972,Ava Brown,ava.brown972@example.com,Bangalore,India,2025-12-10,Gold
+CUST_00973,Daniel Smith,daniel.smith973@example.com,London,UK,2025-08-03,Silver
+CUST_00974,Mia Brown,mia.brown974@example.com,Manchester,UK,2025-09-20,Bronze
+CUST_00975,Olivia Smith,olivia.smith975@example.com,New York,USA,2026-01-31,Bronze
+CUST_00976,Daniel Martin,daniel.martin976@example.com,Chicago,USA,2026-02-28,Bronze
+CUST_00977,Harper Harris,harper.harris977@example.com,Manchester,UK,2026-07-14,Silver
+CUST_00978,Ethan Taylor,ethan.taylor978@example.com,Bangalore,India,2026-05-06,Bronze
+CUST_00979,Aarav Martinez,aarav.martinez979@example.com,Chicago,USA,2026-04-08,Bronze
+CUST_00980,Liam Johnson,liam.johnson980@example.com,London,UK,2025-01-21,Silver
+CUST_00981,Alexander Anderson,alexander.anderson981@example.com,San Francisco,USA,2025-03-17,Bronze
+CUST_00982,Alexander Wilson,alexander.wilson982@example.com,Mumbai,India,2026-01-20,Silver
+CUST_00983,Ava Brown,ava.brown983@example.com,Berlin,Germany,2025-04-06,Bronze
+CUST_00984,Alexander Walker,alexander.walker984@example.com,Munich,Germany,2026-05-10,Bronze
+CUST_00985,James Martin,james.martin985@example.com,Paris,France,2025-06-18,Silver
+CUST_00986,Priya Martin,priya.martin986@example.com,Chicago,USA,2025-02-24,Bronze
+CUST_00987,Olivia Jackson,olivia.jackson987@example.com,Austin,USA,2025-07-14,Silver
+CUST_00988,Amelia Lewis,amelia.lewis988@example.com,Sydney,Australia,2026-07-08,Bronze
+CUST_00989,Oliver Thomas,oliver.thomas989@example.com,London,UK,2025-09-01,Bronze
+CUST_00990,Olivia Johnson,olivia.johnson990@example.com,Toronto,Canada,2026-08-09,Gold
+CUST_00991,Evelyn Sharma,evelyn.sharma991@example.com,Chicago,USA,2025-02-25,Silver
+CUST_00992,Charlotte Smith,charlotte.smith992@example.com,Toronto,Canada,2025-03-31,Silver
+CUST_00993,Sophia Walker,sophia.walker993@example.com,Vancouver,Canada,2025-07-24,Bronze
+CUST_00994,Olivia Smith,olivia.smith994@example.com,Austin,USA,2025-06-24,Silver
+CUST_00995,Sophia Brown,sophia.brown995@example.com,Vancouver,Canada,2025-04-29,Bronze
+CUST_00996,Sophia Harris,sophia.harris996@example.com,Vancouver,Canada,2026-05-16,Bronze
+CUST_00997,Oliver Brown,oliver.brown997@example.com,Paris,France,2026-07-12,Gold
+CUST_00998,Ethan Wilson,ethan.wilson998@example.com,Manchester,UK,2026-01-26,Bronze
+CUST_00999,Charlotte Wilson,charlotte.wilson999@example.com,Vancouver,Canada,2025-02-15,Platinum
+CUST_01000,Oliver Patel,oliver.patel1000@example.com,Vancouver,Canada,2025-09-27,Bronze
+CUST_01001,Mia Anderson,mia.anderson1001@example.com,Munich,Germany,2025-03-05,Bronze
+CUST_01002,Noah Taylor,noah.taylor1002@example.com,San Francisco,USA,2025-12-19,Silver
+CUST_01003,Evelyn Martin,evelyn.martin1003@example.com,Melbourne,Australia,2026-08-27,Gold
+CUST_01004,Mia Lewis,mia.lewis1004@example.com,New York,USA,2026-02-01,Silver
+CUST_01005,Matthew Martin,matthew.martin1005@example.com,Berlin,Germany,2026-05-02,Gold
+CUST_01006,Aarav Martinez,aarav.martinez1006@example.com,Vancouver,Canada,2025-11-03,Silver
+CUST_01007,Liam Harris,liam.harris1007@example.com,Mumbai,India,2025-02-05,Silver
+CUST_01008,Matthew Lee,matthew.lee1008@example.com,Mumbai,India,2026-06-14,Gold
+CUST_01009,Aarav Walker,aarav.walker1009@example.com,Chicago,USA,2025-05-04,Bronze
+CUST_01010,Daniel Wilson,daniel.wilson1010@example.com,Chicago,USA,2025-08-05,Bronze
+CUST_01011,Lucas Miller,lucas.miller1011@example.com,New York,USA,2026-03-10,Bronze
+CUST_01012,Liam Martin,liam.martin1012@example.com,Austin,USA,2025-06-01,Platinum
+CUST_01013,Priya Anderson,priya.anderson1013@example.com,Manchester,UK,2025-03-10,Gold
+CUST_01014,Liam Harris,liam.harris1014@example.com,Berlin,Germany,2026-02-11,Bronze
+CUST_01015,Evelyn Jackson,evelyn.jackson1015@example.com,Bangalore,India,2025-10-10,Silver
+CUST_01016,Matthew Patel,matthew.patel1016@example.com,Mumbai,India,2025-01-13,Gold
+CUST_01017,Priya Lee,priya.lee1017@example.com,Berlin,Germany,2026-03-06,Bronze
+CUST_01018,Olivia Martin,olivia.martin1018@example.com,Chicago,USA,2025-06-01,Silver
+CUST_01019,Aarav Lee,aarav.lee1019@example.com,Munich,Germany,2025-04-13,Gold
+CUST_01020,Olivia Lee,olivia.lee1020@example.com,Melbourne,Australia,2025-04-14,Bronze
+CUST_01021,Sophia Lewis,sophia.lewis1021@example.com,Mumbai,India,2025-12-19,Silver
+CUST_01022,Amelia Anderson,amelia.anderson1022@example.com,Toronto,Canada,2026-05-13,Bronze
+CUST_01023,Aarav Walker,aarav.walker1023@example.com,Vancouver,Canada,2025-02-08,Gold
+CUST_01024,Ava Anderson,ava.anderson1024@example.com,Toronto,Canada,2025-05-28,Platinum
+CUST_01025,Priya Walker,priya.walker1025@example.com,Paris,France,2026-02-16,Gold
+CUST_01026,Emma Harris,emma.harris1026@example.com,Mumbai,India,2025-12-06,Bronze
+CUST_01027,Mia Johnson,mia.johnson1027@example.com,Sydney,Australia,2026-05-02,Gold
+CUST_01028,Oliver White,oliver.white1028@example.com,New York,USA,2025-12-12,Gold
+CUST_01029,Sophia Thomas,sophia.thomas1029@example.com,London,UK,2026-05-19,Bronze
+CUST_01030,Olivia Martinez,olivia.martinez1030@example.com,Chicago,USA,2025-11-04,Gold
+CUST_01031,Daniel Jackson,daniel.jackson1031@example.com,London,UK,2026-03-03,Bronze
+CUST_01032,Priya Brown,priya.brown1032@example.com,Austin,USA,2026-03-29,Silver
+CUST_01033,Lucas Martin,lucas.martin1033@example.com,Sydney,Australia,2026-05-12,Bronze
+CUST_01034,Matthew White,matthew.white1034@example.com,Bangalore,India,2025-02-27,Bronze
+CUST_01035,Matthew Wilson,matthew.wilson1035@example.com,San Francisco,USA,2025-11-15,Bronze
+CUST_01036,Matthew Harris,matthew.harris1036@example.com,Chicago,USA,2026-06-21,Silver
+CUST_01037,Aarav Smith,aarav.smith1037@example.com,Chicago,USA,2025-07-17,Bronze
+CUST_01038,Lucas Johnson,lucas.johnson1038@example.com,Austin,USA,2025-02-03,Silver
+CUST_01039,Daniel Johnson,daniel.johnson1039@example.com,Mumbai,India,2026-01-05,Bronze
+CUST_01040,Lucas Anderson,lucas.anderson1040@example.com,Manchester,UK,2026-04-21,Bronze
+CUST_01041,Matthew Harris,matthew.harris1041@example.com,Paris,France,2025-05-07,Silver
+CUST_01042,James Martinez,james.martinez1042@example.com,Manchester,UK,2026-05-16,Silver
+CUST_01043,Priya Patel,priya.patel1043@example.com,Chicago,USA,2026-05-01,Bronze
+CUST_01044,Aarav Lewis,aarav.lewis1044@example.com,Manchester,UK,2025-12-19,Silver
+CUST_01045,Ava Anderson,ava.anderson1045@example.com,Sydney,Australia,2025-04-03,Gold
+CUST_01046,Sophia Smith,sophia.smith1046@example.com,Toronto,Canada,2025-02-20,Silver
+CUST_01047,Ava Lee,ava.lee1047@example.com,Melbourne,Australia,2025-08-08,Bronze
+CUST_01048,Mia Martinez,mia.martinez1048@example.com,Paris,France,2025-07-31,Bronze
+CUST_01049,Oliver Martin,oliver.martin1049@example.com,Berlin,Germany,2025-01-21,Gold
+CUST_01050,James Sharma,james.sharma1050@example.com,Mumbai,India,2025-05-16,Bronze
+CUST_01051,Ava Walker,ava.walker1051@example.com,Melbourne,Australia,2025-01-09,Gold
+CUST_01052,Mia Anderson,mia.anderson1052@example.com,Munich,Germany,2025-11-09,Silver
+CUST_01053,Oliver Martin,oliver.martin1053@example.com,Mumbai,India,2026-01-21,Gold
+CUST_01054,Charlotte Patel,charlotte.patel1054@example.com,London,UK,2025-08-12,Silver
+CUST_01055,Daniel Thomas,daniel.thomas1055@example.com,Paris,France,2026-06-18,Platinum
+CUST_01056,Priya Harris,priya.harris1056@example.com,Munich,Germany,2025-04-15,Bronze
+CUST_01057,James Clark,james.clark1057@example.com,Paris,France,2026-01-19,Silver
+CUST_01058,Evelyn Walker,evelyn.walker1058@example.com,Munich,Germany,2025-10-17,Bronze
+CUST_01059,Sophia Taylor,sophia.taylor1059@example.com,Vancouver,Canada,2025-03-07,Bronze
+CUST_01060,Alexander Anderson,alexander.anderson1060@example.com,Paris,France,2025-11-29,Silver
+CUST_01061,Oliver Anderson,oliver.anderson1061@example.com,Paris,France,2025-11-02,Gold
+CUST_01062,Lucas Miller,lucas.miller1062@example.com,Berlin,Germany,2025-09-04,Platinum
+CUST_01063,Emma Walker,emma.walker1063@example.com,Toronto,Canada,2025-11-24,Silver
+CUST_01064,Noah Smith,noah.smith1064@example.com,Paris,France,2026-05-25,Bronze
+CUST_01065,Sophia Anderson,sophia.anderson1065@example.com,Mumbai,India,2026-03-05,Bronze
+CUST_01066,Ethan Harris,ethan.harris1066@example.com,Sydney,Australia,2025-02-06,Silver
+CUST_01067,Aarav Lee,aarav.lee1067@example.com,Bangalore,India,2025-07-14,Bronze
+CUST_01068,Alexander Martinez,alexander.martinez1068@example.com,Paris,France,2026-07-02,Bronze
+CUST_01069,Harper White,harper.white1069@example.com,Berlin,Germany,2025-11-04,Bronze
+CUST_01070,Ava Lewis,ava.lewis1070@example.com,Chicago,USA,2025-10-28,Bronze
+CUST_01071,Olivia Sharma,olivia.sharma1071@example.com,Chicago,USA,2025-09-22,Bronze
+CUST_01072,Evelyn Wilson,evelyn.wilson1072@example.com,Paris,France,2025-12-10,Bronze
+CUST_01073,Liam Martinez,liam.martinez1073@example.com,Manchester,UK,2025-08-17,Bronze
+CUST_01074,Sophia Martin,sophia.martin1074@example.com,Melbourne,Australia,2025-12-06,Bronze
+CUST_01075,Charlotte Anderson,charlotte.anderson1075@example.com,Munich,Germany,2025-10-29,Platinum
+CUST_01076,Daniel Taylor,daniel.taylor1076@example.com,Vancouver,Canada,2025-02-24,Bronze
+CUST_01077,Aarav Lee,aarav.lee1077@example.com,Munich,Germany,2025-03-14,Bronze
+CUST_01078,Harper Davis,harper.davis1078@example.com,Berlin,Germany,2025-05-03,Silver
+CUST_01079,Ethan Clark,ethan.clark1079@example.com,London,UK,2026-02-28,Bronze
+CUST_01080,Emma Miller,emma.miller1080@example.com,Chicago,USA,2025-07-25,Gold
+CUST_01081,Alexander Martin,alexander.martin1081@example.com,Munich,Germany,2026-04-14,Silver
+CUST_01082,Noah Jackson,noah.jackson1082@example.com,Bangalore,India,2025-07-04,Bronze
+CUST_01083,Liam Sharma,liam.sharma1083@example.com,Manchester,UK,2025-07-01,Bronze
+CUST_01084,Alexander Johnson,alexander.johnson1084@example.com,New York,USA,2026-04-08,Gold
+CUST_01085,Oliver Davis,oliver.davis1085@example.com,Melbourne,Australia,2025-06-22,Gold
+CUST_01086,Aarav Wilson,aarav.wilson1086@example.com,Vancouver,Canada,2025-04-01,Bronze
+CUST_01087,Noah Walker,noah.walker1087@example.com,Toronto,Canada,2026-03-16,Silver
+CUST_01088,Ethan Martin,ethan.martin1088@example.com,Vancouver,Canada,2026-01-28,Bronze
+CUST_01089,James Johnson,james.johnson1089@example.com,Berlin,Germany,2025-07-24,Platinum
+CUST_01090,Charlotte Smith,charlotte.smith1090@example.com,Mumbai,India,2025-11-26,Bronze
+CUST_01091,Matthew Davis,matthew.davis1091@example.com,New York,USA,2025-01-05,Gold
+CUST_01092,Mia Martinez,mia.martinez1092@example.com,Sydney,Australia,2025-12-19,Silver
+CUST_01093,Sophia Miller,sophia.miller1093@example.com,San Francisco,USA,2026-01-28,Silver
+CUST_01094,Matthew Lee,matthew.lee1094@example.com,London,UK,2025-06-21,Silver
+CUST_01095,Liam Johnson,liam.johnson1095@example.com,London,UK,2025-10-25,Bronze
+CUST_01096,Daniel Clark,daniel.clark1096@example.com,Munich,Germany,2026-06-21,Bronze
+CUST_01097,Alexander Martin,alexander.martin1097@example.com,Mumbai,India,2025-05-18,Bronze
+CUST_01098,Alexander Sharma,alexander.sharma1098@example.com,Manchester,UK,2025-07-12,Bronze
+CUST_01099,Ava Harris,ava.harris1099@example.com,New York,USA,2025-08-22,Silver
+CUST_01100,Mia Miller,mia.miller1100@example.com,Austin,USA,2025-01-23,Bronze
+CUST_01101,Aarav Clark,aarav.clark1101@example.com,Chicago,USA,2025-05-07,Bronze
+CUST_01102,Charlotte Johnson,charlotte.johnson1102@example.com,Toronto,Canada,2025-09-19,Platinum
+CUST_01103,Evelyn Walker,evelyn.walker1103@example.com,New York,USA,2026-09-01,Gold
+CUST_01104,Emma Taylor,emma.taylor1104@example.com,Paris,France,2025-01-21,Gold
+CUST_01105,Emma Taylor,emma.taylor1105@example.com,Toronto,Canada,2026-03-31,Platinum
+CUST_01106,Ethan Taylor,ethan.taylor1106@example.com,Berlin,Germany,2025-09-16,Bronze
+CUST_01107,Harper Miller,harper.miller1107@example.com,Austin,USA,2025-01-10,Bronze
+CUST_01108,Sophia Martin,sophia.martin1108@example.com,Paris,France,2025-04-14,Silver
+CUST_01109,Matthew Anderson,matthew.anderson1109@example.com,Munich,Germany,2025-05-21,Silver
+CUST_01110,Amelia Taylor,amelia.taylor1110@example.com,Berlin,Germany,2025-05-01,Bronze
+CUST_01111,Sophia Taylor,sophia.taylor1111@example.com,Melbourne,Australia,2025-04-19,Gold
+CUST_01112,Harper Davis,harper.davis1112@example.com,Munich,Germany,2025-07-24,Bronze
+CUST_01113,Oliver Clark,oliver.clark1113@example.com,Austin,USA,2026-01-02,Bronze
+CUST_01114,Amelia Thomas,amelia.thomas1114@example.com,Chicago,USA,2025-02-10,Silver
+CUST_01115,Evelyn Sharma,evelyn.sharma1115@example.com,Mumbai,India,2025-08-01,Silver
+CUST_01116,Harper Jackson,harper.jackson1116@example.com,Austin,USA,2025-01-03,Silver
+CUST_01117,James Brown,james.brown1117@example.com,Mumbai,India,2025-04-24,Bronze
+CUST_01118,Aarav Sharma,aarav.sharma1118@example.com,Chicago,USA,2025-04-03,Gold
+CUST_01119,Matthew Brown,matthew.brown1119@example.com,Sydney,Australia,2025-04-14,Bronze
+CUST_01120,Oliver Martinez,oliver.martinez1120@example.com,Vancouver,Canada,2025-10-31,Bronze
+CUST_01121,Oliver Patel,oliver.patel1121@example.com,New York,USA,2025-04-13,Gold
+CUST_01122,Ava Johnson,ava.johnson1122@example.com,Bangalore,India,2025-10-25,Platinum
+CUST_01123,Charlotte Jackson,charlotte.jackson1123@example.com,Toronto,Canada,2025-04-29,Gold
+CUST_01124,Olivia Johnson,olivia.johnson1124@example.com,New York,USA,2025-05-22,Gold
+CUST_01125,Ava Jackson,ava.jackson1125@example.com,Manchester,UK,2026-03-25,Silver
+CUST_01126,Priya Anderson,priya.anderson1126@example.com,Mumbai,India,2025-04-06,Silver
+CUST_01127,Charlotte Jackson,charlotte.jackson1127@example.com,Chicago,USA,2025-04-27,Bronze
+CUST_01128,Ethan Harris,ethan.harris1128@example.com,Vancouver,Canada,2025-10-06,Bronze
+CUST_01129,Ethan Sharma,ethan.sharma1129@example.com,Melbourne,Australia,2026-03-08,Bronze
+CUST_01130,Ava Taylor,ava.taylor1130@example.com,Chicago,USA,2025-03-02,Bronze
+CUST_01131,Ava Taylor,ava.taylor1131@example.com,Toronto,Canada,2026-08-28,Silver
+CUST_01132,Harper Lee,harper.lee1132@example.com,Paris,France,2026-03-25,Bronze
+CUST_01133,Ava Walker,ava.walker1133@example.com,Toronto,Canada,2026-01-03,Bronze
+CUST_01134,Priya Smith,priya.smith1134@example.com,Bangalore,India,2025-05-14,Bronze
+CUST_01135,Harper Sharma,harper.sharma1135@example.com,San Francisco,USA,2026-02-26,Silver
+CUST_01136,Daniel Johnson,daniel.johnson1136@example.com,San Francisco,USA,2025-09-25,Bronze
+CUST_01137,Alexander Smith,alexander.smith1137@example.com,Sydney,Australia,2026-06-22,Gold
+CUST_01138,Aarav Lee,aarav.lee1138@example.com,Austin,USA,2025-12-13,Bronze
+CUST_01139,Matthew Clark,matthew.clark1139@example.com,Sydney,Australia,2025-04-08,Bronze
+CUST_01140,Amelia Martinez,amelia.martinez1140@example.com,Vancouver,Canada,2025-12-21,Silver
+CUST_01141,Ethan Miller,ethan.miller1141@example.com,Bangalore,India,2026-07-26,Gold
+CUST_01142,Priya Johnson,priya.johnson1142@example.com,New York,USA,2025-06-10,Bronze
+CUST_01143,Matthew Sharma,matthew.sharma1143@example.com,Bangalore,India,2026-05-23,Silver
+CUST_01144,Ava Brown,ava.brown1144@example.com,Melbourne,Australia,2026-05-19,Silver
+CUST_01145,Alexander Martinez,alexander.martinez1145@example.com,Manchester,UK,2025-10-12,Bronze
+CUST_01146,Emma Clark,emma.clark1146@example.com,Austin,USA,2026-07-18,Gold
+CUST_01147,Ethan Harris,ethan.harris1147@example.com,Bangalore,India,2025-08-29,Silver
+CUST_01148,Liam Patel,liam.patel1148@example.com,Vancouver,Canada,2026-08-10,Silver
+CUST_01149,Daniel Brown,daniel.brown1149@example.com,Bangalore,India,2026-05-26,Gold
+CUST_01150,Daniel Jackson,daniel.jackson1150@example.com,San Francisco,USA,2026-05-25,Gold
+CUST_01151,James Taylor,james.taylor1151@example.com,Toronto,Canada,2026-02-27,Silver
+CUST_01152,Emma Lewis,emma.lewis1152@example.com,Berlin,Germany,2025-01-01,Gold
+CUST_01153,Liam Walker,liam.walker1153@example.com,Munich,Germany,2025-11-08,Silver
+CUST_01154,Matthew Lewis,matthew.lewis1154@example.com,Austin,USA,2026-04-13,Silver
+CUST_01155,Alexander White,alexander.white1155@example.com,Bangalore,India,2025-02-25,Silver
+CUST_01156,Mia Patel,mia.patel1156@example.com,Manchester,UK,2026-07-28,Silver
+CUST_01157,Priya Walker,priya.walker1157@example.com,Vancouver,Canada,2026-01-08,Bronze
+CUST_01158,Daniel Taylor,daniel.taylor1158@example.com,San Francisco,USA,2025-08-16,Gold
+CUST_01159,James Jackson,james.jackson1159@example.com,Manchester,UK,2025-10-26,Gold
+CUST_01160,Evelyn Clark,evelyn.clark1160@example.com,Manchester,UK,2025-04-19,Bronze
+CUST_01161,Emma Wilson,emma.wilson1161@example.com,Vancouver,Canada,2025-05-24,Gold
+CUST_01162,Amelia Taylor,amelia.taylor1162@example.com,London,UK,2025-07-20,Bronze
+CUST_01163,Lucas Taylor,lucas.taylor1163@example.com,Mumbai,India,2026-02-07,Bronze
+CUST_01164,Lucas Patel,lucas.patel1164@example.com,Bangalore,India,2025-07-15,Silver
+CUST_01165,Alexander Taylor,alexander.taylor1165@example.com,Melbourne,Australia,2026-03-01,Bronze
+CUST_01166,Emma Lee,emma.lee1166@example.com,San Francisco,USA,2026-04-07,Gold
+CUST_01167,Daniel Lee,daniel.lee1167@example.com,Berlin,Germany,2025-05-18,Gold
+CUST_01168,Harper Smith,harper.smith1168@example.com,Berlin,Germany,2025-02-19,Silver
+CUST_01169,Evelyn Martin,evelyn.martin1169@example.com,Bangalore,India,2026-08-23,Bronze
+CUST_01170,Harper Clark,harper.clark1170@example.com,Melbourne,Australia,2025-07-01,Bronze
+CUST_01171,Aarav Wilson,aarav.wilson1171@example.com,Sydney,Australia,2025-05-12,Silver
+CUST_01172,Olivia Harris,olivia.harris1172@example.com,Paris,France,2025-11-26,Platinum
+CUST_01173,Matthew Harris,matthew.harris1173@example.com,Toronto,Canada,2025-09-12,Silver
+CUST_01174,Oliver Harris,oliver.harris1174@example.com,Manchester,UK,2025-10-29,Bronze
+CUST_01175,Daniel Miller,daniel.miller1175@example.com,Chicago,USA,2026-02-27,Silver
+CUST_01176,Priya Clark,priya.clark1176@example.com,London,UK,2026-07-15,Silver
+CUST_01177,Alexander Lewis,alexander.lewis1177@example.com,Paris,France,2025-08-11,Silver
+CUST_01178,Lucas Davis,lucas.davis1178@example.com,Munich,Germany,2025-10-25,Bronze
+CUST_01179,Charlotte Miller,charlotte.miller1179@example.com,Sydney,Australia,2025-07-02,Silver
+CUST_01180,Matthew Lewis,matthew.lewis1180@example.com,Sydney,Australia,2025-11-27,Silver
+CUST_01181,Olivia White,olivia.white1181@example.com,Berlin,Germany,2026-05-07,Platinum
+CUST_01182,Aarav Lee,aarav.lee1182@example.com,Paris,France,2026-03-04,Bronze
+CUST_01183,Evelyn Thomas,evelyn.thomas1183@example.com,Mumbai,India,2026-03-09,Silver
+CUST_01184,James Clark,james.clark1184@example.com,San Francisco,USA,2025-01-26,Gold
+CUST_01185,Ethan Miller,ethan.miller1185@example.com,New York,USA,2025-02-27,Bronze
+CUST_01186,Lucas Anderson,lucas.anderson1186@example.com,Melbourne,Australia,2025-06-14,Gold
+CUST_01187,Sophia Anderson,sophia.anderson1187@example.com,Chicago,USA,2025-03-05,Silver
+CUST_01188,Sophia Davis,sophia.davis1188@example.com,Melbourne,Australia,2026-07-09,Bronze
+CUST_01189,Emma White,emma.white1189@example.com,Bangalore,India,2026-04-09,Bronze
+CUST_01190,Olivia Walker,olivia.walker1190@example.com,Bangalore,India,2026-07-30,Silver
+CUST_01191,Mia Lewis,mia.lewis1191@example.com,Toronto,Canada,2025-09-01,Bronze
+CUST_01192,Matthew Thomas,matthew.thomas1192@example.com,Sydney,Australia,2025-02-18,Silver
+CUST_01193,Ethan Harris,ethan.harris1193@example.com,Toronto,Canada,2025-11-17,Bronze
+CUST_01194,Evelyn Johnson,evelyn.johnson1194@example.com,New York,USA,2025-09-15,Silver
+CUST_01195,Lucas Walker,lucas.walker1195@example.com,Bangalore,India,2026-03-30,Bronze
+CUST_01196,Mia White,mia.white1196@example.com,Melbourne,Australia,2026-08-26,Gold
+CUST_01197,Evelyn Walker,evelyn.walker1197@example.com,Austin,USA,2025-07-18,Platinum
+CUST_01198,Sophia Patel,sophia.patel1198@example.com,Chicago,USA,2025-03-18,Platinum
+CUST_01199,Ava Wilson,ava.wilson1199@example.com,Sydney,Australia,2026-06-11,Silver
+CUST_01200,Olivia Harris,olivia.harris1200@example.com,New York,USA,2026-03-15,Bronze
+CUST_01201,Oliver Lewis,oliver.lewis1201@example.com,London,UK,2025-05-14,Silver
+CUST_01202,Ava Lee,ava.lee1202@example.com,Bangalore,India,2025-09-19,Bronze
+CUST_01203,James Jackson,james.jackson1203@example.com,Vancouver,Canada,2025-06-08,Bronze
+CUST_01204,Emma Miller,emma.miller1204@example.com,Mumbai,India,2025-11-27,Bronze
+CUST_01205,Priya Johnson,priya.johnson1205@example.com,Melbourne,Australia,2025-11-05,Bronze
+CUST_01206,Harper Lee,harper.lee1206@example.com,Berlin,Germany,2026-01-02,Silver
+CUST_01207,Liam Jackson,liam.jackson1207@example.com,Berlin,Germany,2025-08-14,Silver
+CUST_01208,Ava Clark,ava.clark1208@example.com,San Francisco,USA,2026-06-02,Bronze
+CUST_01209,Ava Martin,ava.martin1209@example.com,Berlin,Germany,2026-07-04,Bronze
+CUST_01210,Ethan Brown,ethan.brown1210@example.com,Manchester,UK,2025-08-15,Platinum
+CUST_01211,Lucas Jackson,lucas.jackson1211@example.com,Manchester,UK,2026-01-05,Bronze
+CUST_01212,Sophia Davis,sophia.davis1212@example.com,Melbourne,Australia,2026-06-28,Bronze
+CUST_01213,Harper Lewis,harper.lewis1213@example.com,Bangalore,India,2025-01-10,Bronze
+CUST_01214,Olivia White,olivia.white1214@example.com,Vancouver,Canada,2025-09-04,Silver
+CUST_01215,Priya Walker,priya.walker1215@example.com,Austin,USA,2025-02-10,Silver
+CUST_01216,Alexander Harris,alexander.harris1216@example.com,Mumbai,India,2025-04-27,Bronze
+CUST_01217,Ethan Anderson,ethan.anderson1217@example.com,Berlin,Germany,2025-10-17,Bronze
+CUST_01218,James Clark,james.clark1218@example.com,Bangalore,India,2026-01-19,Silver
+CUST_01219,Matthew Clark,matthew.clark1219@example.com,Vancouver,Canada,2026-05-14,Silver
+CUST_01220,Emma Thomas,emma.thomas1220@example.com,Mumbai,India,2025-07-17,Bronze
+CUST_01221,Alexander Clark,alexander.clark1221@example.com,San Francisco,USA,2025-04-09,Platinum
+CUST_01222,Ava Lewis,ava.lewis1222@example.com,Berlin,Germany,2025-01-08,Bronze
+CUST_01223,Liam Davis,liam.davis1223@example.com,Paris,France,2025-08-07,Bronze
+CUST_01224,Amelia Taylor,amelia.taylor1224@example.com,Austin,USA,2026-07-05,Gold
+CUST_01225,Amelia Brown,amelia.brown1225@example.com,Sydney,Australia,2025-06-07,Bronze
+CUST_01226,James Patel,james.patel1226@example.com,Sydney,Australia,2025-12-06,Silver
+CUST_01227,Emma Brown,emma.brown1227@example.com,San Francisco,USA,2025-02-25,Bronze
+CUST_01228,Ava Anderson,ava.anderson1228@example.com,Berlin,Germany,2025-03-14,Bronze
+CUST_01229,Aarav Martinez,aarav.martinez1229@example.com,Mumbai,India,2025-09-22,Platinum
+CUST_01230,Amelia Harris,amelia.harris1230@example.com,Vancouver,Canada,2026-02-19,Bronze
+CUST_01231,Amelia Jackson,amelia.jackson1231@example.com,New York,USA,2026-02-03,Gold
+CUST_01232,Olivia Lewis,olivia.lewis1232@example.com,New York,USA,2025-03-06,Bronze
+CUST_01233,Aarav Johnson,aarav.johnson1233@example.com,Sydney,Australia,2025-03-16,Bronze
+CUST_01234,Charlotte Clark,charlotte.clark1234@example.com,San Francisco,USA,2025-10-24,Bronze
+CUST_01235,Sophia Walker,sophia.walker1235@example.com,San Francisco,USA,2025-10-16,Silver
+CUST_01236,Daniel Harris,daniel.harris1236@example.com,Toronto,Canada,2025-02-01,Bronze
+CUST_01237,Harper Wilson,harper.wilson1237@example.com,Berlin,Germany,2025-08-14,Gold
+CUST_01238,Noah Harris,noah.harris1238@example.com,Melbourne,Australia,2026-07-13,Bronze
+CUST_01239,Sophia Miller,sophia.miller1239@example.com,London,UK,2026-01-18,Platinum
+CUST_01240,James Lewis,james.lewis1240@example.com,Bangalore,India,2026-07-23,Bronze
+CUST_01241,Noah Taylor,noah.taylor1241@example.com,New York,USA,2025-01-06,Gold
+CUST_01242,Aarav Walker,aarav.walker1242@example.com,Toronto,Canada,2026-07-05,Silver
+CUST_01243,Evelyn Brown,evelyn.brown1243@example.com,London,UK,2025-08-04,Silver
+CUST_01244,Charlotte Davis,charlotte.davis1244@example.com,Toronto,Canada,2026-06-09,Gold
+CUST_01245,Noah Wilson,noah.wilson1245@example.com,Chicago,USA,2025-08-15,Silver
+CUST_01246,Priya Anderson,priya.anderson1246@example.com,Austin,USA,2025-04-28,Silver
+CUST_01247,Ava Lee,ava.lee1247@example.com,Bangalore,India,2025-02-25,Bronze
+CUST_01248,Evelyn Patel,evelyn.patel1248@example.com,Paris,France,2026-07-17,Bronze
+CUST_01249,Liam Thomas,liam.thomas1249@example.com,Paris,France,2025-03-10,Gold
+CUST_01250,Oliver Taylor,oliver.taylor1250@example.com,Austin,USA,2026-08-18,Silver
+CUST_01251,Harper Jackson,harper.jackson1251@example.com,Manchester,UK,2025-05-12,Silver
+CUST_01252,Mia Taylor,mia.taylor1252@example.com,London,UK,2025-03-13,Bronze
+CUST_01253,Lucas Jackson,lucas.jackson1253@example.com,Vancouver,Canada,2026-04-07,Bronze
+CUST_01254,Alexander Walker,alexander.walker1254@example.com,Paris,France,2025-11-10,Bronze
+CUST_01255,Aarav Miller,aarav.miller1255@example.com,Munich,Germany,2026-08-04,Silver
+CUST_01256,Charlotte Jackson,charlotte.jackson1256@example.com,Toronto,Canada,2025-06-22,Bronze
+CUST_01257,James Jackson,james.jackson1257@example.com,Austin,USA,2025-08-15,Bronze
+CUST_01258,Amelia Anderson,amelia.anderson1258@example.com,Bangalore,India,2026-01-04,Bronze
+CUST_01259,Noah Jackson,noah.jackson1259@example.com,Mumbai,India,2026-05-07,Bronze
+CUST_01260,Daniel Patel,daniel.patel1260@example.com,Manchester,UK,2025-11-09,Silver
+CUST_01261,Harper Lewis,harper.lewis1261@example.com,San Francisco,USA,2025-06-29,Bronze
+CUST_01262,Priya Brown,priya.brown1262@example.com,Bangalore,India,2025-10-15,Silver
+CUST_01263,Noah Lewis,noah.lewis1263@example.com,Austin,USA,2025-09-27,Bronze
+CUST_01264,Liam Brown,liam.brown1264@example.com,Mumbai,India,2025-01-20,Bronze
+CUST_01265,Matthew Smith,matthew.smith1265@example.com,Bangalore,India,2026-08-19,Bronze
+CUST_01266,Aarav Harris,aarav.harris1266@example.com,Melbourne,Australia,2026-08-28,Bronze
+CUST_01267,Lucas Johnson,lucas.johnson1267@example.com,Berlin,Germany,2025-09-24,Bronze
+CUST_01268,Evelyn Lewis,evelyn.lewis1268@example.com,Vancouver,Canada,2025-06-02,Bronze
+CUST_01269,Charlotte Harris,charlotte.harris1269@example.com,Austin,USA,2026-08-27,Silver
+CUST_01270,Sophia Miller,sophia.miller1270@example.com,Vancouver,Canada,2026-05-29,Bronze
+CUST_01271,Matthew Brown,matthew.brown1271@example.com,Toronto,Canada,2026-01-08,Silver
+CUST_01272,Matthew Smith,matthew.smith1272@example.com,Paris,France,2025-09-02,Gold
+CUST_01273,Priya Wilson,priya.wilson1273@example.com,Melbourne,Australia,2026-06-11,Silver
+CUST_01274,Noah Patel,noah.patel1274@example.com,Chicago,USA,2025-07-03,Bronze
+CUST_01275,Aarav Lee,aarav.lee1275@example.com,Paris,France,2025-05-30,Bronze
+CUST_01276,Harper White,harper.white1276@example.com,New York,USA,2025-08-13,Bronze
+CUST_01277,Harper Martinez,harper.martinez1277@example.com,San Francisco,USA,2025-09-28,Bronze
+CUST_01278,Charlotte Martinez,charlotte.martinez1278@example.com,New York,USA,2025-07-31,Platinum
+CUST_01279,Matthew White,matthew.white1279@example.com,Toronto,Canada,2026-04-26,Bronze
+CUST_01280,Daniel Johnson,daniel.johnson1280@example.com,New York,USA,2025-11-28,Bronze
+CUST_01281,Olivia Clark,olivia.clark1281@example.com,Paris,France,2025-10-08,Silver
+CUST_01282,Oliver Lee,oliver.lee1282@example.com,Berlin,Germany,2026-08-07,Silver
+CUST_01283,Ava Harris,ava.harris1283@example.com,Paris,France,2026-01-23,Silver
+CUST_01284,Charlotte Lee,charlotte.lee1284@example.com,Paris,France,2025-03-21,Bronze
+CUST_01285,Matthew Anderson,matthew.anderson1285@example.com,Toronto,Canada,2025-08-17,Bronze
+CUST_01286,Matthew Harris,matthew.harris1286@example.com,Manchester,UK,2025-12-20,Silver
+CUST_01287,Harper Sharma,harper.sharma1287@example.com,Mumbai,India,2025-01-07,Bronze
+CUST_01288,Matthew Miller,matthew.miller1288@example.com,Vancouver,Canada,2025-06-19,Bronze
+CUST_01289,Mia Brown,mia.brown1289@example.com,Berlin,Germany,2025-10-15,Bronze
+CUST_01290,Lucas Miller,lucas.miller1290@example.com,Chicago,USA,2025-06-11,Bronze
+CUST_01291,Charlotte Walker,charlotte.walker1291@example.com,Sydney,Australia,2025-05-02,Bronze
+CUST_01292,Mia Martin,mia.martin1292@example.com,Melbourne,Australia,2025-12-05,Bronze
+CUST_01293,Olivia Sharma,olivia.sharma1293@example.com,Paris,France,2026-05-06,Silver
+CUST_01294,Harper Davis,harper.davis1294@example.com,Munich,Germany,2025-06-15,Silver
+CUST_01295,Amelia Smith,amelia.smith1295@example.com,Austin,USA,2025-02-14,Gold
+CUST_01296,Noah Lee,noah.lee1296@example.com,Munich,Germany,2025-06-14,Bronze
+CUST_01297,Noah Clark,noah.clark1297@example.com,New York,USA,2026-08-10,Bronze
+CUST_01298,Noah Johnson,noah.johnson1298@example.com,Chicago,USA,2025-09-22,Bronze
+CUST_01299,Ava Clark,ava.clark1299@example.com,Toronto,Canada,2026-08-01,Silver
+CUST_01300,James Thomas,james.thomas1300@example.com,San Francisco,USA,2025-08-10,Silver
+CUST_01301,Daniel Walker,daniel.walker1301@example.com,Vancouver,Canada,2026-05-09,Bronze
+CUST_01302,Ava Martinez,ava.martinez1302@example.com,Bangalore,India,2026-02-25,Gold
+CUST_01303,Priya Miller,priya.miller1303@example.com,Melbourne,Australia,2026-08-20,Bronze
+CUST_01304,Ava Walker,ava.walker1304@example.com,Paris,France,2026-06-08,Silver
+CUST_01305,Oliver Wilson,oliver.wilson1305@example.com,Sydney,Australia,2025-12-17,Silver
+CUST_01306,Daniel Walker,daniel.walker1306@example.com,Munich,Germany,2025-03-12,Gold
+CUST_01307,Mia Harris,mia.harris1307@example.com,Toronto,Canada,2025-05-16,Silver
+CUST_01308,Olivia Smith,olivia.smith1308@example.com,Austin,USA,2026-06-20,Gold
+CUST_01309,Matthew Martin,matthew.martin1309@example.com,Bangalore,India,2025-06-03,Bronze
+CUST_01310,Priya Taylor,priya.taylor1310@example.com,Chicago,USA,2026-05-03,Gold
+CUST_01311,Priya Walker,priya.walker1311@example.com,New York,USA,2026-06-29,Bronze
+CUST_01312,Matthew Taylor,matthew.taylor1312@example.com,San Francisco,USA,2026-05-09,Gold
+CUST_01313,Noah Walker,noah.walker1313@example.com,Berlin,Germany,2025-01-02,Silver
+CUST_01314,Amelia Clark,amelia.clark1314@example.com,Toronto,Canada,2026-01-15,Gold
+CUST_01315,Emma Clark,emma.clark1315@example.com,Toronto,Canada,2025-08-23,Bronze
+CUST_01316,Harper Harris,harper.harris1316@example.com,Manchester,UK,2026-08-27,Silver
+CUST_01317,Aarav Taylor,aarav.taylor1317@example.com,Toronto,Canada,2025-05-18,Silver
+CUST_01318,Oliver Sharma,oliver.sharma1318@example.com,Melbourne,Australia,2025-08-27,Silver
+CUST_01319,Liam Thomas,liam.thomas1319@example.com,Munich,Germany,2026-07-11,Bronze
+CUST_01320,Amelia Anderson,amelia.anderson1320@example.com,Austin,USA,2025-01-06,Bronze
+CUST_01321,James Lee,james.lee1321@example.com,Berlin,Germany,2025-05-01,Bronze
+CUST_01322,Matthew Smith,matthew.smith1322@example.com,Toronto,Canada,2025-07-30,Bronze
+CUST_01323,Alexander Martin,alexander.martin1323@example.com,Manchester,UK,2025-04-20,Gold
+CUST_01324,Noah Martin,noah.martin1324@example.com,Paris,France,2026-08-23,Bronze
+CUST_01325,Oliver Anderson,oliver.anderson1325@example.com,Bangalore,India,2026-07-03,Platinum
+CUST_01326,Amelia Lee,amelia.lee1326@example.com,Manchester,UK,2025-10-10,Bronze
+CUST_01327,Ethan Davis,ethan.davis1327@example.com,Toronto,Canada,2026-07-20,Bronze
+CUST_01328,Evelyn Sharma,evelyn.sharma1328@example.com,Chicago,USA,2026-01-15,Silver
+CUST_01329,Evelyn Lewis,evelyn.lewis1329@example.com,Vancouver,Canada,2025-09-17,Silver
+CUST_01330,Sophia Lee,sophia.lee1330@example.com,Manchester,UK,2026-02-12,Bronze
+CUST_01331,Noah Taylor,noah.taylor1331@example.com,Sydney,Australia,2025-08-24,Silver
+CUST_01332,Daniel Wilson,daniel.wilson1332@example.com,San Francisco,USA,2025-08-08,Silver
+CUST_01333,Matthew Harris,matthew.harris1333@example.com,Melbourne,Australia,2025-12-13,Bronze
+CUST_01334,Evelyn Walker,evelyn.walker1334@example.com,Sydney,Australia,2025-02-23,Platinum
+CUST_01335,Ava Harris,ava.harris1335@example.com,Paris,France,2025-01-06,Platinum
+CUST_01336,Liam Miller,liam.miller1336@example.com,Vancouver,Canada,2026-03-22,Silver
+CUST_01337,Liam Brown,liam.brown1337@example.com,London,UK,2025-08-16,Bronze
+CUST_01338,Charlotte Brown,charlotte.brown1338@example.com,Munich,Germany,2025-02-08,Silver
+CUST_01339,Ethan Harris,ethan.harris1339@example.com,Munich,Germany,2026-06-18,Bronze
+CUST_01340,Sophia Walker,sophia.walker1340@example.com,New York,USA,2025-06-29,Bronze
+CUST_01341,Harper Patel,harper.patel1341@example.com,New York,USA,2025-07-26,Bronze
+CUST_01342,Matthew Thomas,matthew.thomas1342@example.com,Austin,USA,2025-02-04,Bronze
+CUST_01343,Priya Clark,priya.clark1343@example.com,Berlin,Germany,2025-08-26,Gold
+CUST_01344,Priya Wilson,priya.wilson1344@example.com,Paris,France,2025-02-06,Silver
+CUST_01345,Charlotte Martinez,charlotte.martinez1345@example.com,Paris,France,2025-01-01,Silver
+CUST_01346,Ava Brown,ava.brown1346@example.com,London,UK,2026-02-14,Bronze
+CUST_01347,Charlotte Harris,charlotte.harris1347@example.com,Toronto,Canada,2026-08-24,Bronze
+CUST_01348,Lucas Clark,lucas.clark1348@example.com,New York,USA,2025-03-12,Bronze
+CUST_01349,Liam Lewis,liam.lewis1349@example.com,London,UK,2026-07-27,Platinum
+CUST_01350,Aarav White,aarav.white1350@example.com,Manchester,UK,2025-10-11,Bronze
+CUST_01351,Mia Walker,mia.walker1351@example.com,Austin,USA,2026-04-11,Gold
+CUST_01352,Ethan Lee,ethan.lee1352@example.com,New York,USA,2025-09-25,Silver
+CUST_01353,Ava Martin,ava.martin1353@example.com,Berlin,Germany,2025-04-20,Bronze
+CUST_01354,Evelyn Brown,evelyn.brown1354@example.com,Berlin,Germany,2025-10-29,Silver
+CUST_01355,Alexander Taylor,alexander.taylor1355@example.com,Melbourne,Australia,2026-06-10,Bronze
+CUST_01356,Oliver Lewis,oliver.lewis1356@example.com,Bangalore,India,2026-08-12,Gold
+CUST_01357,Oliver Patel,oliver.patel1357@example.com,Toronto,Canada,2026-07-31,Gold
+CUST_01358,Harper Martinez,harper.martinez1358@example.com,Melbourne,Australia,2025-12-14,Bronze
+CUST_01359,Daniel Patel,daniel.patel1359@example.com,Mumbai,India,2026-08-24,Bronze
+CUST_01360,James Sharma,james.sharma1360@example.com,San Francisco,USA,2025-09-22,Silver
+CUST_01361,Liam Harris,liam.harris1361@example.com,Paris,France,2025-08-14,Gold
+CUST_01362,Mia Jackson,mia.jackson1362@example.com,Toronto,Canada,2025-12-28,Bronze
+CUST_01363,Matthew Lewis,matthew.lewis1363@example.com,New York,USA,2025-09-27,Silver
+CUST_01364,Mia Thomas,mia.thomas1364@example.com,San Francisco,USA,2026-02-13,Silver
+CUST_01365,Alexander Brown,alexander.brown1365@example.com,Berlin,Germany,2025-07-02,Silver
+CUST_01366,Harper Jackson,harper.jackson1366@example.com,Manchester,UK,2025-08-12,Bronze
+CUST_01367,Aarav Anderson,aarav.anderson1367@example.com,Chicago,USA,2025-07-14,Silver
+CUST_01368,Harper Davis,harper.davis1368@example.com,Austin,USA,2025-09-05,Gold
+CUST_01369,Oliver Davis,oliver.davis1369@example.com,Austin,USA,2025-07-27,Bronze
+CUST_01370,Mia Walker,mia.walker1370@example.com,Manchester,UK,2025-06-09,Bronze
+CUST_01371,Olivia Taylor,olivia.taylor1371@example.com,Mumbai,India,2025-03-22,Platinum
+CUST_01372,Harper Walker,harper.walker1372@example.com,New York,USA,2026-07-09,Bronze
+CUST_01373,Emma Sharma,emma.sharma1373@example.com,Manchester,UK,2025-11-19,Gold
+CUST_01374,Harper Lee,harper.lee1374@example.com,Bangalore,India,2025-10-09,Bronze
+CUST_01375,Harper Wilson,harper.wilson1375@example.com,Melbourne,Australia,2026-06-08,Bronze
+CUST_01376,Oliver Harris,oliver.harris1376@example.com,Austin,USA,2026-08-14,Gold
+CUST_01377,Noah Johnson,noah.johnson1377@example.com,Berlin,Germany,2026-03-10,Bronze
+CUST_01378,Harper Lewis,harper.lewis1378@example.com,New York,USA,2026-05-30,Silver
+CUST_01379,Charlotte Harris,charlotte.harris1379@example.com,Bangalore,India,2025-06-28,Bronze
+CUST_01380,Daniel Taylor,daniel.taylor1380@example.com,Sydney,Australia,2026-06-15,Silver
+CUST_01381,Daniel Jackson,daniel.jackson1381@example.com,Sydney,Australia,2025-01-09,Bronze
+CUST_01382,James Davis,james.davis1382@example.com,Toronto,Canada,2026-08-18,Bronze
+CUST_01383,Olivia Jackson,olivia.jackson1383@example.com,Manchester,UK,2025-09-23,Platinum
+CUST_01384,Ava Lewis,ava.lewis1384@example.com,London,UK,2025-08-31,Bronze
+CUST_01385,Oliver Sharma,oliver.sharma1385@example.com,Munich,Germany,2025-12-18,Silver
+CUST_01386,Charlotte Wilson,charlotte.wilson1386@example.com,Vancouver,Canada,2026-03-11,Bronze
+CUST_01387,Lucas Martin,lucas.martin1387@example.com,Sydney,Australia,2026-01-17,Silver
+CUST_01388,Charlotte Harris,charlotte.harris1388@example.com,London,UK,2026-04-07,Bronze
+CUST_01389,Ava Lee,ava.lee1389@example.com,Chicago,USA,2026-08-13,Platinum
+CUST_01390,Mia Taylor,mia.taylor1390@example.com,Sydney,Australia,2025-10-04,Bronze
+CUST_01391,Mia Lewis,mia.lewis1391@example.com,Toronto,Canada,2026-01-26,Bronze
+CUST_01392,Lucas Miller,lucas.miller1392@example.com,Melbourne,Australia,2025-06-03,Bronze
+CUST_01393,Harper Smith,harper.smith1393@example.com,Chicago,USA,2026-03-08,Bronze
+CUST_01394,Harper Miller,harper.miller1394@example.com,Mumbai,India,2026-06-14,Silver
+CUST_01395,Evelyn Jackson,evelyn.jackson1395@example.com,Melbourne,Australia,2026-05-14,Bronze
+CUST_01396,Sophia Anderson,sophia.anderson1396@example.com,Berlin,Germany,2026-08-05,Gold
+CUST_01397,Emma Harris,emma.harris1397@example.com,San Francisco,USA,2025-06-17,Bronze
+CUST_01398,Emma Davis,emma.davis1398@example.com,Bangalore,India,2025-09-18,Bronze
+CUST_01399,Harper Taylor,harper.taylor1399@example.com,Vancouver,Canada,2025-12-09,Silver
+CUST_01400,Oliver White,oliver.white1400@example.com,Manchester,UK,2026-07-28,Silver
+CUST_01401,Evelyn Anderson,evelyn.anderson1401@example.com,Manchester,UK,2025-01-21,Bronze
+CUST_01402,Amelia Taylor,amelia.taylor1402@example.com,Manchester,UK,2025-07-23,Bronze
+CUST_01403,Aarav Lee,aarav.lee1403@example.com,Paris,France,2026-07-06,Bronze
+CUST_01404,Ava Thomas,ava.thomas1404@example.com,Manchester,UK,2025-11-29,Silver
+CUST_01405,Matthew Sharma,matthew.sharma1405@example.com,Melbourne,Australia,2026-04-03,Silver
+CUST_01406,Liam Harris,liam.harris1406@example.com,Munich,Germany,2025-10-21,Bronze
+CUST_01407,Daniel Miller,daniel.miller1407@example.com,Bangalore,India,2025-06-21,Gold
+CUST_01408,Alexander Martin,alexander.martin1408@example.com,Paris,France,2026-08-09,Gold
+CUST_01409,Ethan Brown,ethan.brown1409@example.com,San Francisco,USA,2025-06-15,Silver
+CUST_01410,Alexander Martinez,alexander.martinez1410@example.com,Manchester,UK,2025-11-21,Gold
+CUST_01411,Sophia Anderson,sophia.anderson1411@example.com,Munich,Germany,2026-02-09,Bronze
+CUST_01412,Oliver Patel,oliver.patel1412@example.com,Melbourne,Australia,2026-01-07,Bronze
+CUST_01413,Aarav Clark,aarav.clark1413@example.com,Vancouver,Canada,2026-02-28,Bronze
+CUST_01414,Ava Wilson,ava.wilson1414@example.com,Bangalore,India,2025-01-24,Bronze
+CUST_01415,Noah Martinez,noah.martinez1415@example.com,Paris,France,2025-09-15,Silver
+CUST_01416,Liam Davis,liam.davis1416@example.com,Chicago,USA,2026-02-11,Gold
+CUST_01417,Olivia Taylor,olivia.taylor1417@example.com,San Francisco,USA,2026-04-30,Bronze
+CUST_01418,Evelyn Johnson,evelyn.johnson1418@example.com,New York,USA,2026-02-11,Bronze
+CUST_01419,Matthew Brown,matthew.brown1419@example.com,San Francisco,USA,2025-09-26,Bronze
+CUST_01420,Priya Miller,priya.miller1420@example.com,San Francisco,USA,2026-02-04,Gold
+CUST_01421,Sophia Martinez,sophia.martinez1421@example.com,Austin,USA,2025-10-18,Bronze
+CUST_01422,Daniel Miller,daniel.miller1422@example.com,Chicago,USA,2026-06-24,Silver
+CUST_01423,Ava Smith,ava.smith1423@example.com,New York,USA,2026-01-01,Bronze
+CUST_01424,Alexander Sharma,alexander.sharma1424@example.com,Vancouver,Canada,2026-07-08,Bronze
+CUST_01425,Oliver Lewis,oliver.lewis1425@example.com,Vancouver,Canada,2025-05-19,Platinum
+CUST_01426,Evelyn Wilson,evelyn.wilson1426@example.com,Munich,Germany,2026-04-13,Platinum
+CUST_01427,Aarav Martin,aarav.martin1427@example.com,Berlin,Germany,2026-07-01,Bronze
+CUST_01428,Sophia White,sophia.white1428@example.com,Vancouver,Canada,2026-07-07,Platinum
+CUST_01429,Mia Brown,mia.brown1429@example.com,Vancouver,Canada,2025-11-12,Silver
+CUST_01430,Charlotte Martin,charlotte.martin1430@example.com,London,UK,2025-06-09,Gold
+CUST_01431,Sophia Smith,sophia.smith1431@example.com,New York,USA,2026-06-20,Bronze
+CUST_01432,Noah White,noah.white1432@example.com,London,UK,2026-04-26,Silver
+CUST_01433,Evelyn Smith,evelyn.smith1433@example.com,Sydney,Australia,2026-05-19,Bronze
+CUST_01434,Harper Thomas,harper.thomas1434@example.com,New York,USA,2026-03-17,Silver
+CUST_01435,Sophia Walker,sophia.walker1435@example.com,Austin,USA,2025-01-08,Bronze
+CUST_01436,Evelyn White,evelyn.white1436@example.com,Austin,USA,2026-02-26,Bronze
+CUST_01437,Evelyn Martin,evelyn.martin1437@example.com,Toronto,Canada,2025-09-13,Bronze
+CUST_01438,Ava Harris,ava.harris1438@example.com,Bangalore,India,2026-01-23,Silver
+CUST_01439,Mia Anderson,mia.anderson1439@example.com,San Francisco,USA,2026-03-09,Bronze
+CUST_01440,Mia Clark,mia.clark1440@example.com,Melbourne,Australia,2025-10-06,Silver
+CUST_01441,Sophia Lewis,sophia.lewis1441@example.com,Melbourne,Australia,2025-10-03,Platinum
+CUST_01442,Amelia Davis,amelia.davis1442@example.com,Bangalore,India,2025-03-12,Bronze
+CUST_01443,Ava Miller,ava.miller1443@example.com,London,UK,2025-04-24,Silver
+CUST_01444,Daniel Walker,daniel.walker1444@example.com,Vancouver,Canada,2025-10-06,Bronze
+CUST_01445,Priya Sharma,priya.sharma1445@example.com,Austin,USA,2025-11-25,Gold
+CUST_01446,James Miller,james.miller1446@example.com,New York,USA,2026-07-02,Bronze
+CUST_01447,James Wilson,james.wilson1447@example.com,San Francisco,USA,2025-10-16,Silver
+CUST_01448,Oliver Miller,oliver.miller1448@example.com,Sydney,Australia,2026-03-25,Gold
+CUST_01449,James Martinez,james.martinez1449@example.com,San Francisco,USA,2025-06-04,Gold
+CUST_01450,James Sharma,james.sharma1450@example.com,Austin,USA,2025-12-17,Silver
+CUST_01451,Amelia Thomas,amelia.thomas1451@example.com,Melbourne,Australia,2026-05-26,Bronze
+CUST_01452,Charlotte Patel,charlotte.patel1452@example.com,Sydney,Australia,2025-02-02,Silver
+CUST_01453,Alexander Brown,alexander.brown1453@example.com,Bangalore,India,2025-05-30,Gold
+CUST_01454,Emma Anderson,emma.anderson1454@example.com,Melbourne,Australia,2026-02-06,Silver
+CUST_01455,Liam Lewis,liam.lewis1455@example.com,Vancouver,Canada,2025-07-05,Bronze
+CUST_01456,Lucas Anderson,lucas.anderson1456@example.com,Bangalore,India,2026-01-26,Gold
+CUST_01457,James Taylor,james.taylor1457@example.com,Melbourne,Australia,2025-09-12,Silver
+CUST_01458,Ethan Patel,ethan.patel1458@example.com,Austin,USA,2025-02-04,Silver
+CUST_01459,Lucas Patel,lucas.patel1459@example.com,Sydney,Australia,2025-04-07,Bronze
+CUST_01460,Matthew Davis,matthew.davis1460@example.com,Vancouver,Canada,2026-02-03,Silver
+CUST_01461,Sophia Jackson,sophia.jackson1461@example.com,Chicago,USA,2025-02-13,Bronze
+CUST_01462,Evelyn Clark,evelyn.clark1462@example.com,San Francisco,USA,2025-09-17,Silver
+CUST_01463,Harper Thomas,harper.thomas1463@example.com,Austin,USA,2026-01-05,Bronze
+CUST_01464,Emma Davis,emma.davis1464@example.com,San Francisco,USA,2025-08-30,Silver
+CUST_01465,Amelia Jackson,amelia.jackson1465@example.com,New York,USA,2025-06-21,Platinum
+CUST_01466,Oliver Lee,oliver.lee1466@example.com,San Francisco,USA,2026-02-10,Bronze
+CUST_01467,Mia Smith,mia.smith1467@example.com,New York,USA,2026-08-19,Platinum
+CUST_01468,Harper Walker,harper.walker1468@example.com,Chicago,USA,2026-01-16,Bronze
+CUST_01469,Liam Martinez,liam.martinez1469@example.com,Chicago,USA,2026-05-27,Gold
+CUST_01470,Liam Walker,liam.walker1470@example.com,Manchester,UK,2025-03-03,Silver
+CUST_01471,Emma White,emma.white1471@example.com,Paris,France,2025-06-07,Silver
+CUST_01472,Evelyn Taylor,evelyn.taylor1472@example.com,Chicago,USA,2026-05-15,Silver
+CUST_01473,Mia Jackson,mia.jackson1473@example.com,Berlin,Germany,2025-12-22,Gold
+CUST_01474,Daniel Davis,daniel.davis1474@example.com,New York,USA,2026-01-22,Bronze
+CUST_01475,Charlotte Miller,charlotte.miller1475@example.com,London,UK,2025-02-10,Bronze
+CUST_01476,Harper Patel,harper.patel1476@example.com,Berlin,Germany,2025-10-29,Silver
+CUST_01477,Evelyn Sharma,evelyn.sharma1477@example.com,Austin,USA,2026-08-04,Gold
+CUST_01478,Ava Lewis,ava.lewis1478@example.com,Manchester,UK,2025-11-28,Silver
+CUST_01479,Daniel Anderson,daniel.anderson1479@example.com,Bangalore,India,2026-07-22,Silver
+CUST_01480,Ava Brown,ava.brown1480@example.com,Berlin,Germany,2025-06-08,Bronze
+CUST_01481,Daniel Thomas,daniel.thomas1481@example.com,Bangalore,India,2025-09-27,Gold
+CUST_01482,Evelyn White,evelyn.white1482@example.com,Vancouver,Canada,2025-01-01,Bronze
+CUST_01483,Matthew Harris,matthew.harris1483@example.com,Sydney,Australia,2025-07-09,Silver
+CUST_01484,James Walker,james.walker1484@example.com,Bangalore,India,2026-01-08,Bronze
+CUST_01485,Priya Martinez,priya.martinez1485@example.com,Manchester,UK,2025-03-06,Bronze
+CUST_01486,Evelyn Harris,evelyn.harris1486@example.com,Austin,USA,2026-06-21,Bronze
+CUST_01487,Harper Lewis,harper.lewis1487@example.com,Chicago,USA,2025-10-17,Bronze
+CUST_01488,Alexander Martin,alexander.martin1488@example.com,Paris,France,2025-11-26,Silver
+CUST_01489,Olivia Taylor,olivia.taylor1489@example.com,Berlin,Germany,2025-03-10,Bronze
+CUST_01490,Emma Miller,emma.miller1490@example.com,Chicago,USA,2025-02-02,Bronze
+CUST_01491,Lucas Taylor,lucas.taylor1491@example.com,Vancouver,Canada,2025-07-16,Bronze
+CUST_01492,Olivia Johnson,olivia.johnson1492@example.com,Munich,Germany,2026-02-02,Bronze
+CUST_01493,Harper Clark,harper.clark1493@example.com,Munich,Germany,2026-08-28,Bronze
+CUST_01494,Oliver Johnson,oliver.johnson1494@example.com,Manchester,UK,2025-08-15,Bronze
+CUST_01495,Priya Brown,priya.brown1495@example.com,New York,USA,2025-08-02,Silver
+CUST_01496,Harper Brown,harper.brown1496@example.com,Vancouver,Canada,2025-03-04,Silver
+CUST_01497,Charlotte Lewis,charlotte.lewis1497@example.com,Sydney,Australia,2026-03-02,Silver
+CUST_01498,Charlotte Johnson,charlotte.johnson1498@example.com,Bangalore,India,2025-09-30,Bronze
+CUST_01499,Matthew Johnson,matthew.johnson1499@example.com,Sydney,Australia,2025-03-14,Bronze
+CUST_01500,Sophia Brown,sophia.brown1500@example.com,Austin,USA,2026-06-16,Gold

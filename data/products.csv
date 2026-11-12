@@ -1,0 +1,36 @@
+product_id,product_name,category,cost_price,unit_price
+PROD_101,Smartphone,Electronics,193.63,236.23
+PROD_102,Laptop,Electronics,86.13,118.74
+PROD_103,Wireless Earbuds,Electronics,222.26,387.03
+PROD_104,Smartwatch,Electronics,268.19,340.48
+PROD_105,4K Monitor,Electronics,129.47,158.45
+PROD_106,Gaming Mouse,Electronics,69.5,111.5
+PROD_107,Bluetooth Speaker,Electronics,12.83,17.44
+PROD_108,Denim Jacket,Clothing,196.72,321.82
+PROD_109,Graphic T-Shirt,Clothing,70.03,117.05
+PROD_110,Running Shoes,Clothing,243.78,293.8
+PROD_111,Hoodie,Clothing,242.72,426.83
+PROD_112,Slim Fit Chinos,Clothing,105.37,139.55
+PROD_113,Yoga Pants,Clothing,287.38,422.24
+PROD_114,Formal Shirt,Clothing,32.36,41.34
+PROD_115,Air Fryer,Home & Kitchen,255.01,429.18
+PROD_116,Espresso Machine,Home & Kitchen,243.1,433.64
+PROD_117,Ceramic Cookware,Home & Kitchen,163.19,322.87
+PROD_118,Blender,Home & Kitchen,116.67,191.53
+PROD_119,Robotic Vacuum,Home & Kitchen,249.67,423.14
+PROD_120,Stainless Steel Kettle,Home & Kitchen,259.2,430.76
+PROD_121,Sci-Fi Novel,Books,212.85,263.22
+PROD_122,Data Engineering Handbook,Books,72.23,103.4
+PROD_123,Psychology of Money,Books,28.54,39.56
+PROD_124,Cookbook,Books,34.8,49.5
+PROD_125,Design Systems Guide,Books,192.53,287.23
+PROD_126,Facial Cleanser,Beauty & Personal Care,114.2,156.18
+PROD_127,Sunscreen SPF 50,Beauty & Personal Care,83.76,163.28
+PROD_128,Hair Dryer,Beauty & Personal Care,196.17,331.0
+PROD_129,Moisturizing Cream,Beauty & Personal Care,55.49,98.96
+PROD_130,Organic Shampoo,Beauty & Personal Care,53.2,79.99
+PROD_131,Yoga Mat,Sports & Outdoors,296.91,508.31
+PROD_132,Dumbbell Set,Sports & Outdoors,169.3,295.88
+PROD_133,Camping Tent,Sports & Outdoors,253.64,461.83
+PROD_134,Trekking Backpack,Sports & Outdoors,72.57,88.95
+PROD_135,Hydration Water Bottle,Sports & Outdoors,98.06,138.68
